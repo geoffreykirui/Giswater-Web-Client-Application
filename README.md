@@ -1,4 +1,4 @@
-# Giswater Web Client Applications
+# Giswater Web Client Application
 
 Web client application using QGIS, QgisServer and LizMap.
 ![Giswater Web Client](https://raw.githubusercontent.com/geoffreykirui/Giswater_Web_Client_Applications/main/Giswater%20Web%20Client%20Application.png)
