@@ -1,0 +1,615 @@
+a:5:{s:5:"mtime";i:1641132745;s:5:"ctime";i:1641132745;s:4:"code";i:200;s:4:"mime";s:23:"text/xml; charset=utf-8";s:4:"data";s:32077:"<?xml version="1.0" encoding="utf-8"?>
+<WMS_Capabilities xmlns:sld="http://www.opengis.net/sld" version="1.3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.opengis.net/wms" xmlns:qgs="http://www.qgis.org/wms" xsi:schemaLocation="http://www.opengis.net/wms http://schemas.opengis.net/wms/1.3.0/capabilities_1_3_0.xsd http://www.opengis.net/sld http://schemas.opengis.net/sld/1.1.0/sld_capabilities.xsd http://www.qgis.org/wms http://localhost/qgis/qgis_mapserv.fcgi.exe?map=C%3A%5Cwebserver%5Cdata%5Cprod%5Crep3%2Fsssp_basic.qgs&amp;Lizmap_User=admin&amp;Lizmap_User_Groups=__priv_admin%2C admins&amp;Lizmap_Override_Filter=1&amp;SERVICE=WMS&amp;REQUEST=GetSchemaExtension">
+ <Service>
+  <Name>WMS</Name>
+  <Title>Kenya Small Scale Service Providers</Title>
+  <Abstract><![CDATA[This is a demo web map client for demonstrating how the web map and the basic functions of displaying on the web through a web browser.]]></Abstract>
+  <KeywordList>
+   <Keyword vocabulary="ISO">infoMapAccessService</Keyword>
+   <Keyword>QGIS</Keyword>
+   <Keyword>QGIS SERVER</Keyword>
+   <Keyword>LIZMAP</Keyword>
+   <Keyword>PHP</Keyword>
+   <Keyword>JAVASCRIPT</Keyword>
+   <Keyword>GISWATER</Keyword>
+  </KeywordList>
+  <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://wasreb.go.ke/" xlink:type="simple"/>
+  <ContactInformation>
+   <ContactPersonPrimary>
+    <ContactPerson>Geoffrey Kirui</ContactPerson>
+    <ContactOrganization>Wasreb</ContactOrganization>
+   </ContactPersonPrimary>
+   <ContactPosition>Lead consultant GIS For Water and Sanitation</ContactPosition>
+   <ContactVoiceTelephone>+254721434265</ContactVoiceTelephone>
+   <ContactElectronicMailAddress>geffkiruisea@gmail.com</ContactElectronicMailAddress>
+  </ContactInformation>
+  <Fees>conditions unknown</Fees>
+  <AccessConstraints>None</AccessConstraints>
+ </Service>
+ <Capability>
+  <Request>
+   <GetCapabilities>
+    <Format>text/xml</Format>
+    <DCPType>
+     <HTTP>
+      <Get>
+       <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://localhost/qgis/qgis_mapserv.fcgi.exe?map=C%3A%5Cwebserver%5Cdata%5Cprod%5Crep3%2Fsssp_basic.qgs&amp;Lizmap_User=admin&amp;Lizmap_User_Groups=__priv_admin%2C admins&amp;Lizmap_Override_Filter=1&amp;" xlink:type="simple"/>
+      </Get>
+     </HTTP>
+    </DCPType>
+   </GetCapabilities>
+   <GetMap>
+    <Format>image/jpeg</Format>
+    <Format>image/png</Format>
+    <Format>image/png; mode=16bit</Format>
+    <Format>image/png; mode=8bit</Format>
+    <Format>image/png; mode=1bit</Format>
+    <Format>application/dxf</Format>
+    <DCPType>
+     <HTTP>
+      <Get>
+       <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://localhost/qgis/qgis_mapserv.fcgi.exe?map=C%3A%5Cwebserver%5Cdata%5Cprod%5Crep3%2Fsssp_basic.qgs&amp;Lizmap_User=admin&amp;Lizmap_User_Groups=__priv_admin%2C admins&amp;Lizmap_Override_Filter=1&amp;" xlink:type="simple"/>
+      </Get>
+     </HTTP>
+    </DCPType>
+   </GetMap>
+   <GetFeatureInfo>
+    <Format>text/plain</Format>
+    <Format>text/html</Format>
+    <Format>text/xml</Format>
+    <Format>application/vnd.ogc.gml</Format>
+    <Format>application/vnd.ogc.gml/3.1.1</Format>
+    <Format>application/json</Format>
+    <Format>application/geo+json</Format>
+    <DCPType>
+     <HTTP>
+      <Get>
+       <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://localhost/qgis/qgis_mapserv.fcgi.exe?map=C%3A%5Cwebserver%5Cdata%5Cprod%5Crep3%2Fsssp_basic.qgs&amp;Lizmap_User=admin&amp;Lizmap_User_Groups=__priv_admin%2C admins&amp;Lizmap_Override_Filter=1&amp;" xlink:type="simple"/>
+      </Get>
+     </HTTP>
+    </DCPType>
+   </GetFeatureInfo>
+   <sld:GetLegendGraphic>
+    <Format>image/jpeg</Format>
+    <Format>image/png</Format>
+    <Format>application/json</Format>
+    <DCPType>
+     <HTTP>
+      <Get>
+       <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://localhost/qgis/qgis_mapserv.fcgi.exe?map=C%3A%5Cwebserver%5Cdata%5Cprod%5Crep3%2Fsssp_basic.qgs&amp;Lizmap_User=admin&amp;Lizmap_User_Groups=__priv_admin%2C admins&amp;Lizmap_Override_Filter=1&amp;" xlink:type="simple"/>
+      </Get>
+     </HTTP>
+    </DCPType>
+   </sld:GetLegendGraphic>
+   <sld:DescribeLayer>
+    <Format>text/xml</Format>
+    <DCPType>
+     <HTTP>
+      <Get>
+       <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://localhost/qgis/qgis_mapserv.fcgi.exe?map=C%3A%5Cwebserver%5Cdata%5Cprod%5Crep3%2Fsssp_basic.qgs&amp;Lizmap_User=admin&amp;Lizmap_User_Groups=__priv_admin%2C admins&amp;Lizmap_Override_Filter=1&amp;" xlink:type="simple"/>
+      </Get>
+     </HTTP>
+    </DCPType>
+   </sld:DescribeLayer>
+   <qgs:GetStyles>
+    <Format>text/xml</Format>
+    <DCPType>
+     <HTTP>
+      <Get>
+       <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://localhost/qgis/qgis_mapserv.fcgi.exe?map=C%3A%5Cwebserver%5Cdata%5Cprod%5Crep3%2Fsssp_basic.qgs&amp;Lizmap_User=admin&amp;Lizmap_User_Groups=__priv_admin%2C admins&amp;Lizmap_Override_Filter=1&amp;" xlink:type="simple"/>
+      </Get>
+     </HTTP>
+    </DCPType>
+   </qgs:GetStyles>
+  </Request>
+  <Exception>
+   <Format>XML</Format>
+  </Exception>
+  <sld:UserDefinedSymbolization InlineFeature="0" SupportSLD="1" UserLayer="0" UserStyle="1" RemoteWFS="0" RemoteWCS="0"/>
+  <Layer queryable="1">
+   <Name>kenya_sssp</Name>
+   <KeywordList>
+    <Keyword vocabulary="ISO">infoMapAccessService</Keyword>
+    <Keyword>QGIS</Keyword>
+    <Keyword>QGIS SERVER</Keyword>
+    <Keyword>LIZMAP</Keyword>
+    <Keyword>PHP</Keyword>
+    <Keyword>JAVASCRIPT</Keyword>
+    <Keyword>GISWATER</Keyword>
+   </KeywordList>
+   <CRS>CRS:84</CRS>
+   <CRS>EPSG:3857</CRS>
+   <EX_GeographicBoundingBox>
+    <westBoundLongitude>28.340929</westBoundLongitude>
+    <eastBoundLongitude>46.405623</eastBoundLongitude>
+    <southBoundLatitude>-8.005698</southBoundLatitude>
+    <northBoundLatitude>7.772846</northBoundLatitude>
+   </EX_GeographicBoundingBox>
+   <BoundingBox minx="3154897.803" miny="-894104.239" maxx="5165850.25" maxy="867935.527" CRS="EPSG:3857"/>
+   <Layer queryable="1">
+    <Name>INVENTORY</Name>
+    <Title>INVENTORY</Title>
+    <CRS>CRS:84</CRS>
+    <CRS>EPSG:3857</CRS>
+    <EX_GeographicBoundingBox>
+     <westBoundLongitude>28.340929</westBoundLongitude>
+     <eastBoundLongitude>46.405623</eastBoundLongitude>
+     <southBoundLatitude>-8.005698</southBoundLatitude>
+     <northBoundLatitude>7.772846</northBoundLatitude>
+    </EX_GeographicBoundingBox>
+    <BoundingBox minx="3154897.803" miny="-894104.239" maxx="5165850.25" maxy="867935.527" CRS="EPSG:3857"/>
+    <Layer queryable="1">
+     <Name>Map_zones</Name>
+     <Title>Map_zones</Title>
+     <CRS>CRS:84</CRS>
+     <CRS>EPSG:3857</CRS>
+     <EX_GeographicBoundingBox>
+      <westBoundLongitude>28.340929</westBoundLongitude>
+      <eastBoundLongitude>46.405623</eastBoundLongitude>
+      <southBoundLatitude>-8.005698</southBoundLatitude>
+      <northBoundLatitude>7.772846</northBoundLatitude>
+     </EX_GeographicBoundingBox>
+     <BoundingBox minx="3154897.803" miny="-894104.239" maxx="5165850.25" maxy="867935.527" CRS="EPSG:3857"/>
+     <Layer queryable="1">
+      <Name>Exploitation</Name>
+      <Title>Exploitation</Title>
+      <CRS>CRS:84</CRS>
+      <CRS>EPSG:3857</CRS>
+      <EX_GeographicBoundingBox>
+       <westBoundLongitude>34.590328</westBoundLongitude>
+       <eastBoundLongitude>37.420041</eastBoundLongitude>
+       <southBoundLatitude>-2.104406</southBoundLatitude>
+       <northBoundLatitude>1.663619</northBoundLatitude>
+      </EX_GeographicBoundingBox>
+      <BoundingBox minx="3850577.723" miny="-234314.079" maxx="4165579.813" maxy="185219.199" CRS="EPSG:3857"/>
+      <Style>
+       <Name>predeterminado</Name>
+       <Title>predeterminado</Title>
+       <LegendURL>
+        <Format>image/png</Format>
+        <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://localhost/qgis/qgis_mapserv.fcgi.exe?map=C%3A%5Cwebserver%5Cdata%5Cprod%5Crep3%2Fsssp_basic.qgs&amp;Lizmap_User=admin&amp;Lizmap_User_Groups=__priv_admin%2C admins&amp;Lizmap_Override_Filter=1&amp;SERVICE=WMS&amp;VERSION=1.3.0&amp;REQUEST=GetLegendGraphic&amp;LAYER=Exploitation&amp;FORMAT=image/png&amp;STYLE=predeterminado&amp;SLD_VERSION=1.1.0" xlink:type="simple"/>
+       </LegendURL>
+      </Style>
+     </Layer>
+     <Layer queryable="1">
+      <Name>Dma</Name>
+      <Title>Dma</Title>
+      <CRS>CRS:84</CRS>
+      <CRS>EPSG:3857</CRS>
+      <EX_GeographicBoundingBox>
+       <westBoundLongitude>28.340929</westBoundLongitude>
+       <eastBoundLongitude>46.405623</eastBoundLongitude>
+       <southBoundLatitude>-8.005698</southBoundLatitude>
+       <northBoundLatitude>7.772846</northBoundLatitude>
+      </EX_GeographicBoundingBox>
+      <BoundingBox minx="3154897.803" miny="-894104.239" maxx="5165850.25" maxy="867935.527" CRS="EPSG:3857"/>
+      <Style>
+       <Name>predeterminado</Name>
+       <Title>predeterminado</Title>
+       <LegendURL>
+        <Format>image/png</Format>
+        <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://localhost/qgis/qgis_mapserv.fcgi.exe?map=C%3A%5Cwebserver%5Cdata%5Cprod%5Crep3%2Fsssp_basic.qgs&amp;Lizmap_User=admin&amp;Lizmap_User_Groups=__priv_admin%2C admins&amp;Lizmap_Override_Filter=1&amp;SERVICE=WMS&amp;VERSION=1.3.0&amp;REQUEST=GetLegendGraphic&amp;LAYER=Dma&amp;FORMAT=image/png&amp;STYLE=predeterminado&amp;SLD_VERSION=1.1.0" xlink:type="simple"/>
+       </LegendURL>
+      </Style>
+     </Layer>
+     <Layer queryable="1">
+      <Name>Sector</Name>
+      <Title>Sector</Title>
+      <CRS>CRS:84</CRS>
+      <CRS>EPSG:3857</CRS>
+      <EX_GeographicBoundingBox>
+       <westBoundLongitude>28.340929</westBoundLongitude>
+       <eastBoundLongitude>46.405623</eastBoundLongitude>
+       <southBoundLatitude>-8.005698</southBoundLatitude>
+       <northBoundLatitude>7.772846</northBoundLatitude>
+      </EX_GeographicBoundingBox>
+      <BoundingBox minx="3154897.803" miny="-894104.239" maxx="5165850.25" maxy="867935.527" CRS="EPSG:3857"/>
+      <Style>
+       <Name>predeterminado</Name>
+       <Title>predeterminado</Title>
+       <LegendURL>
+        <Format>image/png</Format>
+        <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://localhost/qgis/qgis_mapserv.fcgi.exe?map=C%3A%5Cwebserver%5Cdata%5Cprod%5Crep3%2Fsssp_basic.qgs&amp;Lizmap_User=admin&amp;Lizmap_User_Groups=__priv_admin%2C admins&amp;Lizmap_Override_Filter=1&amp;SERVICE=WMS&amp;VERSION=1.3.0&amp;REQUEST=GetLegendGraphic&amp;LAYER=Sector&amp;FORMAT=image/png&amp;STYLE=predeterminado&amp;SLD_VERSION=1.1.0" xlink:type="simple"/>
+       </LegendURL>
+      </Style>
+     </Layer>
+     <Layer queryable="1">
+      <Name>Dqa</Name>
+      <Title>Dqa</Title>
+      <CRS>CRS:84</CRS>
+      <CRS>EPSG:3857</CRS>
+      <EX_GeographicBoundingBox>
+       <westBoundLongitude>28.340929</westBoundLongitude>
+       <eastBoundLongitude>46.405623</eastBoundLongitude>
+       <southBoundLatitude>-8.005698</southBoundLatitude>
+       <northBoundLatitude>7.772846</northBoundLatitude>
+      </EX_GeographicBoundingBox>
+      <BoundingBox minx="3154897.803" miny="-894104.239" maxx="5165850.25" maxy="867935.527" CRS="EPSG:3857"/>
+      <Style>
+       <Name>predeterminado</Name>
+       <Title>predeterminado</Title>
+       <LegendURL>
+        <Format>image/png</Format>
+        <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://localhost/qgis/qgis_mapserv.fcgi.exe?map=C%3A%5Cwebserver%5Cdata%5Cprod%5Crep3%2Fsssp_basic.qgs&amp;Lizmap_User=admin&amp;Lizmap_User_Groups=__priv_admin%2C admins&amp;Lizmap_Override_Filter=1&amp;SERVICE=WMS&amp;VERSION=1.3.0&amp;REQUEST=GetLegendGraphic&amp;LAYER=Dqa&amp;FORMAT=image/png&amp;STYLE=predeterminado&amp;SLD_VERSION=1.1.0" xlink:type="simple"/>
+       </LegendURL>
+      </Style>
+     </Layer>
+     <Layer queryable="1">
+      <Name>Presszone</Name>
+      <Title>Presszone</Title>
+      <CRS>CRS:84</CRS>
+      <CRS>EPSG:3857</CRS>
+      <EX_GeographicBoundingBox>
+       <westBoundLongitude>28.340929</westBoundLongitude>
+       <eastBoundLongitude>46.405623</eastBoundLongitude>
+       <southBoundLatitude>-8.005698</southBoundLatitude>
+       <northBoundLatitude>7.772846</northBoundLatitude>
+      </EX_GeographicBoundingBox>
+      <BoundingBox minx="3154897.803" miny="-894104.239" maxx="5165850.25" maxy="867935.527" CRS="EPSG:3857"/>
+      <Style>
+       <Name>predeterminado</Name>
+       <Title>predeterminado</Title>
+       <LegendURL>
+        <Format>image/png</Format>
+        <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://localhost/qgis/qgis_mapserv.fcgi.exe?map=C%3A%5Cwebserver%5Cdata%5Cprod%5Crep3%2Fsssp_basic.qgs&amp;Lizmap_User=admin&amp;Lizmap_User_Groups=__priv_admin%2C admins&amp;Lizmap_Override_Filter=1&amp;SERVICE=WMS&amp;VERSION=1.3.0&amp;REQUEST=GetLegendGraphic&amp;LAYER=Presszone&amp;FORMAT=image/png&amp;STYLE=predeterminado&amp;SLD_VERSION=1.1.0" xlink:type="simple"/>
+       </LegendURL>
+      </Style>
+     </Layer>
+    </Layer>
+    <Layer queryable="1">
+     <Name>Network</Name>
+     <Title>Network</Title>
+     <CRS>CRS:84</CRS>
+     <CRS>EPSG:3857</CRS>
+     <EX_GeographicBoundingBox>
+      <westBoundLongitude>28.340929</westBoundLongitude>
+      <eastBoundLongitude>46.405623</eastBoundLongitude>
+      <southBoundLatitude>-8.005698</southBoundLatitude>
+      <northBoundLatitude>7.772846</northBoundLatitude>
+     </EX_GeographicBoundingBox>
+     <BoundingBox minx="3154897.803" miny="-894104.239" maxx="5165850.25" maxy="867935.527" CRS="EPSG:3857"/>
+     <Layer queryable="1">
+      <Name>Node</Name>
+      <Title>Node</Title>
+      <CRS>CRS:84</CRS>
+      <CRS>EPSG:3857</CRS>
+      <EX_GeographicBoundingBox>
+       <westBoundLongitude>28.340929</westBoundLongitude>
+       <eastBoundLongitude>46.405623</eastBoundLongitude>
+       <southBoundLatitude>-8.005698</southBoundLatitude>
+       <northBoundLatitude>7.772846</northBoundLatitude>
+      </EX_GeographicBoundingBox>
+      <BoundingBox minx="3154897.803" miny="-894104.239" maxx="5165850.25" maxy="867935.527" CRS="EPSG:3857"/>
+      <Style>
+       <Name>predeterminado</Name>
+       <Title>predeterminado</Title>
+       <LegendURL>
+        <Format>image/png</Format>
+        <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://localhost/qgis/qgis_mapserv.fcgi.exe?map=C%3A%5Cwebserver%5Cdata%5Cprod%5Crep3%2Fsssp_basic.qgs&amp;Lizmap_User=admin&amp;Lizmap_User_Groups=__priv_admin%2C admins&amp;Lizmap_Override_Filter=1&amp;SERVICE=WMS&amp;VERSION=1.3.0&amp;REQUEST=GetLegendGraphic&amp;LAYER=Node&amp;FORMAT=image/png&amp;STYLE=predeterminado&amp;SLD_VERSION=1.1.0" xlink:type="simple"/>
+       </LegendURL>
+      </Style>
+     </Layer>
+     <Layer queryable="1">
+      <Name>Arc</Name>
+      <Title>Arc</Title>
+      <CRS>CRS:84</CRS>
+      <CRS>EPSG:3857</CRS>
+      <EX_GeographicBoundingBox>
+       <westBoundLongitude>28.340929</westBoundLongitude>
+       <eastBoundLongitude>46.405623</eastBoundLongitude>
+       <southBoundLatitude>-8.005698</southBoundLatitude>
+       <northBoundLatitude>7.772846</northBoundLatitude>
+      </EX_GeographicBoundingBox>
+      <BoundingBox minx="3154897.803" miny="-894104.239" maxx="5165850.25" maxy="867935.527" CRS="EPSG:3857"/>
+      <Style>
+       <Name>predeterminado</Name>
+       <Title>predeterminado</Title>
+       <LegendURL>
+        <Format>image/png</Format>
+        <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://localhost/qgis/qgis_mapserv.fcgi.exe?map=C%3A%5Cwebserver%5Cdata%5Cprod%5Crep3%2Fsssp_basic.qgs&amp;Lizmap_User=admin&amp;Lizmap_User_Groups=__priv_admin%2C admins&amp;Lizmap_Override_Filter=1&amp;SERVICE=WMS&amp;VERSION=1.3.0&amp;REQUEST=GetLegendGraphic&amp;LAYER=Arc&amp;FORMAT=image/png&amp;STYLE=predeterminado&amp;SLD_VERSION=1.1.0" xlink:type="simple"/>
+       </LegendURL>
+      </Style>
+     </Layer>
+     <Layer queryable="1">
+      <Name>Connec</Name>
+      <Title>Connec</Title>
+      <CRS>CRS:84</CRS>
+      <CRS>EPSG:3857</CRS>
+      <EX_GeographicBoundingBox>
+       <westBoundLongitude>28.340929</westBoundLongitude>
+       <eastBoundLongitude>46.405623</eastBoundLongitude>
+       <southBoundLatitude>-8.005698</southBoundLatitude>
+       <northBoundLatitude>7.772846</northBoundLatitude>
+      </EX_GeographicBoundingBox>
+      <BoundingBox minx="3154897.803" miny="-894104.239" maxx="5165850.25" maxy="867935.527" CRS="EPSG:3857"/>
+      <Style>
+       <Name>predeterminado</Name>
+       <Title>predeterminado</Title>
+       <LegendURL>
+        <Format>image/png</Format>
+        <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://localhost/qgis/qgis_mapserv.fcgi.exe?map=C%3A%5Cwebserver%5Cdata%5Cprod%5Crep3%2Fsssp_basic.qgs&amp;Lizmap_User=admin&amp;Lizmap_User_Groups=__priv_admin%2C admins&amp;Lizmap_Override_Filter=1&amp;SERVICE=WMS&amp;VERSION=1.3.0&amp;REQUEST=GetLegendGraphic&amp;LAYER=Connec&amp;FORMAT=image/png&amp;STYLE=predeterminado&amp;SLD_VERSION=1.1.0" xlink:type="simple"/>
+       </LegendURL>
+      </Style>
+     </Layer>
+     <Layer queryable="1">
+      <Name>v_edit_link</Name>
+      <Title>Link</Title>
+      <CRS>CRS:84</CRS>
+      <CRS>EPSG:3857</CRS>
+      <EX_GeographicBoundingBox>
+       <westBoundLongitude>28.340929</westBoundLongitude>
+       <eastBoundLongitude>46.405623</eastBoundLongitude>
+       <southBoundLatitude>-8.005698</southBoundLatitude>
+       <northBoundLatitude>7.772846</northBoundLatitude>
+      </EX_GeographicBoundingBox>
+      <BoundingBox minx="3154897.803" miny="-894104.239" maxx="5165850.25" maxy="867935.527" CRS="EPSG:3857"/>
+      <Style>
+       <Name>predeterminado</Name>
+       <Title>predeterminado</Title>
+       <LegendURL>
+        <Format>image/png</Format>
+        <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://localhost/qgis/qgis_mapserv.fcgi.exe?map=C%3A%5Cwebserver%5Cdata%5Cprod%5Crep3%2Fsssp_basic.qgs&amp;Lizmap_User=admin&amp;Lizmap_User_Groups=__priv_admin%2C admins&amp;Lizmap_Override_Filter=1&amp;SERVICE=WMS&amp;VERSION=1.3.0&amp;REQUEST=GetLegendGraphic&amp;LAYER=v_edit_link&amp;FORMAT=image/png&amp;STYLE=predeterminado&amp;SLD_VERSION=1.1.0" xlink:type="simple"/>
+       </LegendURL>
+      </Style>
+      <MinScaleDenominator>1</MinScaleDenominator>
+      <MaxScaleDenominator>1500</MaxScaleDenominator>
+     </Layer>
+     <Layer queryable="1">
+      <Name>Polygon_GROUP</Name>
+      <Title>Polygon_GROUP</Title>
+      <CRS>CRS:84</CRS>
+      <CRS>EPSG:3857</CRS>
+      <EX_GeographicBoundingBox>
+       <westBoundLongitude>28.340929</westBoundLongitude>
+       <eastBoundLongitude>46.405623</eastBoundLongitude>
+       <southBoundLatitude>-8.005698</southBoundLatitude>
+       <northBoundLatitude>7.772846</northBoundLatitude>
+      </EX_GeographicBoundingBox>
+      <BoundingBox minx="3154897.803" miny="-894104.239" maxx="5165850.25" maxy="867935.527" CRS="EPSG:3857"/>
+      <Layer queryable="1">
+       <Name>Connec_polygon</Name>
+       <Title>Connec_polygon</Title>
+       <CRS>CRS:84</CRS>
+       <CRS>EPSG:3857</CRS>
+       <EX_GeographicBoundingBox>
+        <westBoundLongitude>28.340929</westBoundLongitude>
+        <eastBoundLongitude>46.405623</eastBoundLongitude>
+        <southBoundLatitude>-8.005698</southBoundLatitude>
+        <northBoundLatitude>7.772846</northBoundLatitude>
+       </EX_GeographicBoundingBox>
+       <BoundingBox minx="3154897.803" miny="-894104.239" maxx="5165850.25" maxy="867935.527" CRS="EPSG:3857"/>
+       <Style>
+        <Name>predeterminado</Name>
+        <Title>predeterminado</Title>
+        <LegendURL>
+         <Format>image/png</Format>
+         <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://localhost/qgis/qgis_mapserv.fcgi.exe?map=C%3A%5Cwebserver%5Cdata%5Cprod%5Crep3%2Fsssp_basic.qgs&amp;Lizmap_User=admin&amp;Lizmap_User_Groups=__priv_admin%2C admins&amp;Lizmap_Override_Filter=1&amp;SERVICE=WMS&amp;VERSION=1.3.0&amp;REQUEST=GetLegendGraphic&amp;LAYER=Connec_polygon&amp;FORMAT=image/png&amp;STYLE=predeterminado&amp;SLD_VERSION=1.1.0" xlink:type="simple"/>
+        </LegendURL>
+       </Style>
+       <MinScaleDenominator>0</MinScaleDenominator>
+       <MaxScaleDenominator>5000</MaxScaleDenominator>
+      </Layer>
+      <Layer queryable="1">
+       <Name>Node_polygon</Name>
+       <Title>Node_polygon</Title>
+       <CRS>CRS:84</CRS>
+       <CRS>EPSG:3857</CRS>
+       <EX_GeographicBoundingBox>
+        <westBoundLongitude>28.340929</westBoundLongitude>
+        <eastBoundLongitude>46.405623</eastBoundLongitude>
+        <southBoundLatitude>-8.005698</southBoundLatitude>
+        <northBoundLatitude>7.772846</northBoundLatitude>
+       </EX_GeographicBoundingBox>
+       <BoundingBox minx="3154897.803" miny="-894104.239" maxx="5165850.25" maxy="867935.527" CRS="EPSG:3857"/>
+       <Style>
+        <Name>predeterminado</Name>
+        <Title>predeterminado</Title>
+        <LegendURL>
+         <Format>image/png</Format>
+         <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://localhost/qgis/qgis_mapserv.fcgi.exe?map=C%3A%5Cwebserver%5Cdata%5Cprod%5Crep3%2Fsssp_basic.qgs&amp;Lizmap_User=admin&amp;Lizmap_User_Groups=__priv_admin%2C admins&amp;Lizmap_Override_Filter=1&amp;SERVICE=WMS&amp;VERSION=1.3.0&amp;REQUEST=GetLegendGraphic&amp;LAYER=Node_polygon&amp;FORMAT=image/png&amp;STYLE=predeterminado&amp;SLD_VERSION=1.1.0" xlink:type="simple"/>
+        </LegendURL>
+       </Style>
+       <MinScaleDenominator>0</MinScaleDenominator>
+       <MaxScaleDenominator>5000</MaxScaleDenominator>
+      </Layer>
+     </Layer>
+    </Layer>
+    <Layer queryable="1">
+     <Name>Other</Name>
+     <Title>Other</Title>
+     <CRS>CRS:84</CRS>
+     <CRS>EPSG:3857</CRS>
+     <EX_GeographicBoundingBox>
+      <westBoundLongitude>28.340929</westBoundLongitude>
+      <eastBoundLongitude>46.405623</eastBoundLongitude>
+      <southBoundLatitude>-8.005698</southBoundLatitude>
+      <northBoundLatitude>7.772846</northBoundLatitude>
+     </EX_GeographicBoundingBox>
+     <BoundingBox minx="3154897.803" miny="-894104.239" maxx="5165850.25" maxy="867935.527" CRS="EPSG:3857"/>
+     <Layer queryable="1">
+      <Name>Dimensioning</Name>
+      <Title>Dimensioning</Title>
+      <CRS>CRS:84</CRS>
+      <CRS>EPSG:3857</CRS>
+      <EX_GeographicBoundingBox>
+       <westBoundLongitude>28.340929</westBoundLongitude>
+       <eastBoundLongitude>46.405623</eastBoundLongitude>
+       <southBoundLatitude>-8.005698</southBoundLatitude>
+       <northBoundLatitude>7.772846</northBoundLatitude>
+      </EX_GeographicBoundingBox>
+      <BoundingBox minx="3154897.803" miny="-894104.239" maxx="5165850.25" maxy="867935.527" CRS="EPSG:3857"/>
+      <Style>
+       <Name>predeterminado</Name>
+       <Title>predeterminado</Title>
+       <LegendURL>
+        <Format>image/png</Format>
+        <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://localhost/qgis/qgis_mapserv.fcgi.exe?map=C%3A%5Cwebserver%5Cdata%5Cprod%5Crep3%2Fsssp_basic.qgs&amp;Lizmap_User=admin&amp;Lizmap_User_Groups=__priv_admin%2C admins&amp;Lizmap_Override_Filter=1&amp;SERVICE=WMS&amp;VERSION=1.3.0&amp;REQUEST=GetLegendGraphic&amp;LAYER=Dimensioning&amp;FORMAT=image/png&amp;STYLE=predeterminado&amp;SLD_VERSION=1.1.0" xlink:type="simple"/>
+       </LegendURL>
+      </Style>
+     </Layer>
+     <Layer queryable="1">
+      <Name>Element</Name>
+      <Title>Element</Title>
+      <CRS>CRS:84</CRS>
+      <CRS>EPSG:3857</CRS>
+      <EX_GeographicBoundingBox>
+       <westBoundLongitude>28.340929</westBoundLongitude>
+       <eastBoundLongitude>46.405623</eastBoundLongitude>
+       <southBoundLatitude>-8.005698</southBoundLatitude>
+       <northBoundLatitude>7.772846</northBoundLatitude>
+      </EX_GeographicBoundingBox>
+      <BoundingBox minx="3154897.803" miny="-894104.239" maxx="5165850.25" maxy="867935.527" CRS="EPSG:3857"/>
+      <Style>
+       <Name>predeterminado</Name>
+       <Title>predeterminado</Title>
+       <LegendURL>
+        <Format>image/png</Format>
+        <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://localhost/qgis/qgis_mapserv.fcgi.exe?map=C%3A%5Cwebserver%5Cdata%5Cprod%5Crep3%2Fsssp_basic.qgs&amp;Lizmap_User=admin&amp;Lizmap_User_Groups=__priv_admin%2C admins&amp;Lizmap_Override_Filter=1&amp;SERVICE=WMS&amp;VERSION=1.3.0&amp;REQUEST=GetLegendGraphic&amp;LAYER=Element&amp;FORMAT=image/png&amp;STYLE=predeterminado&amp;SLD_VERSION=1.1.0" xlink:type="simple"/>
+       </LegendURL>
+      </Style>
+      <MinScaleDenominator>1</MinScaleDenominator>
+      <MaxScaleDenominator>1500</MaxScaleDenominator>
+     </Layer>
+     <Layer queryable="1">
+      <Name>Sample_point</Name>
+      <Title>Sample_point</Title>
+      <CRS>CRS:84</CRS>
+      <CRS>EPSG:3857</CRS>
+      <EX_GeographicBoundingBox>
+       <westBoundLongitude>28.340929</westBoundLongitude>
+       <eastBoundLongitude>46.405623</eastBoundLongitude>
+       <southBoundLatitude>-8.005698</southBoundLatitude>
+       <northBoundLatitude>7.772846</northBoundLatitude>
+      </EX_GeographicBoundingBox>
+      <BoundingBox minx="3154897.803" miny="-894104.239" maxx="5165850.25" maxy="867935.527" CRS="EPSG:3857"/>
+      <Style>
+       <Name>predeterminado</Name>
+       <Title>predeterminado</Title>
+       <LegendURL>
+        <Format>image/png</Format>
+        <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://localhost/qgis/qgis_mapserv.fcgi.exe?map=C%3A%5Cwebserver%5Cdata%5Cprod%5Crep3%2Fsssp_basic.qgs&amp;Lizmap_User=admin&amp;Lizmap_User_Groups=__priv_admin%2C admins&amp;Lizmap_Override_Filter=1&amp;SERVICE=WMS&amp;VERSION=1.3.0&amp;REQUEST=GetLegendGraphic&amp;LAYER=Sample_point&amp;FORMAT=image/png&amp;STYLE=predeterminado&amp;SLD_VERSION=1.1.0" xlink:type="simple"/>
+       </LegendURL>
+      </Style>
+      <MinScaleDenominator>1</MinScaleDenominator>
+      <MaxScaleDenominator>5000</MaxScaleDenominator>
+     </Layer>
+    </Layer>
+   </Layer>
+   <Layer queryable="1">
+    <Name>BASEMAP</Name>
+    <Title>BASEMAP</Title>
+    <CRS>CRS:84</CRS>
+    <CRS>EPSG:3857</CRS>
+    <EX_GeographicBoundingBox>
+     <westBoundLongitude>28.340929</westBoundLongitude>
+     <eastBoundLongitude>46.405623</eastBoundLongitude>
+     <southBoundLatitude>-8.005698</southBoundLatitude>
+     <northBoundLatitude>7.772846</northBoundLatitude>
+    </EX_GeographicBoundingBox>
+    <BoundingBox minx="3154897.803" miny="-894104.239" maxx="5165850.25" maxy="867935.527" CRS="EPSG:3857"/>
+    <Layer queryable="1">
+     <Name>Address</Name>
+     <Title>Address</Title>
+     <CRS>CRS:84</CRS>
+     <CRS>EPSG:3857</CRS>
+     <EX_GeographicBoundingBox>
+      <westBoundLongitude>28.340929</westBoundLongitude>
+      <eastBoundLongitude>46.405623</eastBoundLongitude>
+      <southBoundLatitude>-8.005698</southBoundLatitude>
+      <northBoundLatitude>7.772846</northBoundLatitude>
+     </EX_GeographicBoundingBox>
+     <BoundingBox minx="3154897.803" miny="-894104.239" maxx="5165850.25" maxy="867935.527" CRS="EPSG:3857"/>
+     <Layer queryable="1">
+      <Name>Municipality</Name>
+      <Title>Municipality</Title>
+      <CRS>CRS:84</CRS>
+      <CRS>EPSG:3857</CRS>
+      <EX_GeographicBoundingBox>
+       <westBoundLongitude>28.340929</westBoundLongitude>
+       <eastBoundLongitude>46.405623</eastBoundLongitude>
+       <southBoundLatitude>-8.005698</southBoundLatitude>
+       <northBoundLatitude>7.772846</northBoundLatitude>
+      </EX_GeographicBoundingBox>
+      <BoundingBox minx="3154897.803" miny="-894104.239" maxx="5165850.25" maxy="867935.527" CRS="EPSG:3857"/>
+      <Style>
+       <Name>predeterminado</Name>
+       <Title>predeterminado</Title>
+       <LegendURL>
+        <Format>image/png</Format>
+        <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://localhost/qgis/qgis_mapserv.fcgi.exe?map=C%3A%5Cwebserver%5Cdata%5Cprod%5Crep3%2Fsssp_basic.qgs&amp;Lizmap_User=admin&amp;Lizmap_User_Groups=__priv_admin%2C admins&amp;Lizmap_Override_Filter=1&amp;SERVICE=WMS&amp;VERSION=1.3.0&amp;REQUEST=GetLegendGraphic&amp;LAYER=Municipality&amp;FORMAT=image/png&amp;STYLE=predeterminado&amp;SLD_VERSION=1.1.0" xlink:type="simple"/>
+       </LegendURL>
+      </Style>
+     </Layer>
+     <Layer queryable="1">
+      <Name>Addresses</Name>
+      <Title>Addresses</Title>
+      <CRS>CRS:84</CRS>
+      <CRS>EPSG:3857</CRS>
+      <EX_GeographicBoundingBox>
+       <westBoundLongitude>28.340929</westBoundLongitude>
+       <eastBoundLongitude>46.405623</eastBoundLongitude>
+       <southBoundLatitude>-8.005698</southBoundLatitude>
+       <northBoundLatitude>7.772846</northBoundLatitude>
+      </EX_GeographicBoundingBox>
+      <BoundingBox minx="3154897.803" miny="-894104.239" maxx="5165850.25" maxy="867935.527" CRS="EPSG:3857"/>
+      <Style>
+       <Name>predeterminado</Name>
+       <Title>predeterminado</Title>
+       <LegendURL>
+        <Format>image/png</Format>
+        <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://localhost/qgis/qgis_mapserv.fcgi.exe?map=C%3A%5Cwebserver%5Cdata%5Cprod%5Crep3%2Fsssp_basic.qgs&amp;Lizmap_User=admin&amp;Lizmap_User_Groups=__priv_admin%2C admins&amp;Lizmap_Override_Filter=1&amp;SERVICE=WMS&amp;VERSION=1.3.0&amp;REQUEST=GetLegendGraphic&amp;LAYER=Addresses&amp;FORMAT=image/png&amp;STYLE=predeterminado&amp;SLD_VERSION=1.1.0" xlink:type="simple"/>
+       </LegendURL>
+      </Style>
+      <MinScaleDenominator>0</MinScaleDenominator>
+      <MaxScaleDenominator>1500</MaxScaleDenominator>
+     </Layer>
+     <Layer queryable="1">
+      <Name>Streetaxis</Name>
+      <Title>Streetaxis</Title>
+      <CRS>CRS:84</CRS>
+      <CRS>EPSG:3857</CRS>
+      <EX_GeographicBoundingBox>
+       <westBoundLongitude>28.340929</westBoundLongitude>
+       <eastBoundLongitude>46.405623</eastBoundLongitude>
+       <southBoundLatitude>-8.005698</southBoundLatitude>
+       <northBoundLatitude>7.772846</northBoundLatitude>
+      </EX_GeographicBoundingBox>
+      <BoundingBox minx="3154897.803" miny="-894104.239" maxx="5165850.25" maxy="867935.527" CRS="EPSG:3857"/>
+      <Style>
+       <Name>default</Name>
+       <Title>default</Title>
+       <LegendURL>
+        <Format>image/png</Format>
+        <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://localhost/qgis/qgis_mapserv.fcgi.exe?map=C%3A%5Cwebserver%5Cdata%5Cprod%5Crep3%2Fsssp_basic.qgs&amp;Lizmap_User=admin&amp;Lizmap_User_Groups=__priv_admin%2C admins&amp;Lizmap_Override_Filter=1&amp;SERVICE=WMS&amp;VERSION=1.3.0&amp;REQUEST=GetLegendGraphic&amp;LAYER=Streetaxis&amp;FORMAT=image/png&amp;STYLE=default&amp;SLD_VERSION=1.1.0" xlink:type="simple"/>
+       </LegendURL>
+      </Style>
+      <MinScaleDenominator>0</MinScaleDenominator>
+      <MaxScaleDenominator>3000</MaxScaleDenominator>
+     </Layer>
+     <Layer queryable="1">
+      <Name>Plot</Name>
+      <Title>Plot</Title>
+      <CRS>CRS:84</CRS>
+      <CRS>EPSG:3857</CRS>
+      <EX_GeographicBoundingBox>
+       <westBoundLongitude>28.340929</westBoundLongitude>
+       <eastBoundLongitude>46.405623</eastBoundLongitude>
+       <southBoundLatitude>-8.005698</southBoundLatitude>
+       <northBoundLatitude>7.772846</northBoundLatitude>
+      </EX_GeographicBoundingBox>
+      <BoundingBox minx="3154897.803" miny="-894104.239" maxx="5165850.25" maxy="867935.527" CRS="EPSG:3857"/>
+      <Style>
+       <Name>predeterminado</Name>
+       <Title>predeterminado</Title>
+       <LegendURL>
+        <Format>image/png</Format>
+        <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://localhost/qgis/qgis_mapserv.fcgi.exe?map=C%3A%5Cwebserver%5Cdata%5Cprod%5Crep3%2Fsssp_basic.qgs&amp;Lizmap_User=admin&amp;Lizmap_User_Groups=__priv_admin%2C admins&amp;Lizmap_Override_Filter=1&amp;SERVICE=WMS&amp;VERSION=1.3.0&amp;REQUEST=GetLegendGraphic&amp;LAYER=Plot&amp;FORMAT=image/png&amp;STYLE=predeterminado&amp;SLD_VERSION=1.1.0" xlink:type="simple"/>
+       </LegendURL>
+      </Style>
+     </Layer>
+    </Layer>
+   </Layer>
+  </Layer>
+ </Capability>
+</WMS_Capabilities>
+";}

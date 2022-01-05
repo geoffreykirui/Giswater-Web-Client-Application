@@ -1,0 +1,633 @@
+[Wed Oct 27 13:25:16.956584 2021] [ssl:warn] [pid 3016:tid 508] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Oct 27 13:25:16.958583 2021] [mpm_winnt:notice] [pid 3016:tid 508] AH00455: Apache/2.4.51 (Win64) mod_fcgid/2.3.10-dev OpenSSL/1.1.1l configured -- resuming normal operations
+[Wed Oct 27 13:25:16.958583 2021] [mpm_winnt:notice] [pid 3016:tid 508] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Wed Oct 27 13:25:16.958583 2021] [core:notice] [pid 3016:tid 508] AH00094: Command line: 'C:\\webserver\\Apache24\\bin\\httpd.exe -d C:/webserver/Apache24'
+[Wed Oct 27 13:25:17.001467 2021] [mpm_winnt:notice] [pid 3016:tid 508] AH00418: Parent: Created child process 9836
+Apache server interrupted...
+021] [ssl:warn] [pid 9836:tid 508] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Oct 27 13:25:17.818938 2021] [mpm_winnt:notice] [pid 9836:tid 508] AH00354: Child: Starting 64 worker threads.
+[Wed Oct 27 13:33:57.171017 2021] [mpm_winnt:notice] [pid 3016:tid 508] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+[Wed Oct 27 13:33:59.189463 2021] [mpm_winnt:notice] [pid 9836:tid 508] AH00364: Child: All worker threads have exited.
+[Wed Oct 27 13:33:59.679897 2021] [mpm_winnt:notice] [pid 3016:tid 508] AH00430: Parent: Child process 9836 exited successfully.
+[Wed Oct 27 13:35:35.338789 2021] [ssl:warn] [pid 9828:tid 504] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Oct 27 13:35:35.340787 2021] [mpm_winnt:notice] [pid 9828:tid 504] AH00455: Apache/2.4.51 (Win64) mod_fcgid/2.3.10-dev OpenSSL/1.1.1l configured -- resuming normal operations
+[Wed Oct 27 13:35:35.340787 2021] [mpm_winnt:notice] [pid 9828:tid 504] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Wed Oct 27 13:35:35.340787 2021] [core:notice] [pid 9828:tid 504] AH00094: Command line: 'httpd -d C:/webserver/Apache24'
+[Wed Oct 27 13:35:35.410834 2021] [mpm_winnt:notice] [pid 9828:tid 504] AH00418: Parent: Created child process 9072
+Apache server interrupted...
+021] [ssl:warn] [pid 9072:tid 492] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Oct 27 13:35:36.183758 2021] [mpm_winnt:notice] [pid 9072:tid 492] AH00354: Child: Starting 64 worker threads.
+[Wed Oct 27 13:35:57.083883 2021] [mpm_winnt:notice] [pid 9828:tid 504] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Oct 27 13:35:59.109813 2021] [mpm_winnt:notice] [pid 9072:tid 492] AH00364: Child: All worker threads have exited.
+[Wed Oct 27 13:35:59.422196 2021] [mpm_winnt:notice] [pid 9828:tid 504] AH00430: Parent: Child process 9072 exited successfully.
+The 'Apache2.4' service is restarting.
+Starting the 'Apache2.4' service
+The 'Apache2.4' service is running.
+sl:warn] [pid 6464:tid 600] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Oct 27 13:37:32.253056 2021] [mpm_winnt:notice] [pid 6464:tid 600] AH00455: Apache/2.4.51 (Win64) mod_fcgid/2.3.10-dev OpenSSL/1.1.1l configured -- resuming normal operations
+[Wed Oct 27 13:37:32.253056 2021] [mpm_winnt:notice] [pid 6464:tid 600] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Wed Oct 27 13:37:32.253056 2021] [core:notice] [pid 6464:tid 600] AH00094: Command line: 'C:\\webserver\\Apache24\\bin\\httpd.exe -d C:/webserver/Apache24'
+[Wed Oct 27 13:37:32.291047 2021] [mpm_winnt:notice] [pid 6464:tid 600] AH00418: Parent: Created child process 904
+[Wed Oct 27 13:37:33.073266 2021] [ssl:warn] [pid 904:tid 508] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Oct 27 13:37:33.089259 2021] [mpm_winnt:notice] [pid 904:tid 508] AH00354: Child: Starting 64 worker threads.
+The 'Apache2.4' service is restarting.
+The 'Apache2.4' service ha2 2021] [mpm_winnt:notice] [pid 6464:tid 600] AH00424: Parent: Received restart signal -- Restarting the server.
+[Wed Oct 27 14:35:41.769313 2021] [ssl:warn] [pid 6464:tid 600] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Oct 27 14:35:41.770305 2021] [mpm_winnt:notice] [pid 6464:tid 600] AH00455: Apache/2.4.51 (Win64) mod_fcgid/2.3.10-dev OpenSSL/1.1.1l configured -- resuming normal operations
+[Wed Oct 27 14:35:41.770305 2021] [mpm_winnt:notice] [pid 6464:tid 600] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Wed Oct 27 14:35:41.770305 2021] [core:notice] [pid 6464:tid 600] AH00094: Command line: 'C:\\webserver\\Apache24\\bin\\httpd.exe -d C:/webserver/Apache24'
+[Wed Oct 27 14:35:42.172613 2021] [mpm_winnt:notice] [pid 6464:tid 600] AH00418: Parent: Created child process 9508
+[Wed Oct 27 14:35:42.774008 2021] [ssl:warn] [pid 9508:tid 508] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Oct 27 14:35:42.777007 2021] [mpm_winnt:notice] [pid 9508:tid 508] AH00354: Child: Starting 64 worker threads.
+[Wed Oct 27 14:35:42.890201 2021] [mpm_winnt:notice] [pid 904:tid 508] AH00364: Child: All worker threads have exited.
+[Wed Oct 27 15:45:18.373645 2021] [mpm_winnt:notice] [pid 6464:tid 600] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Oct 27 15:45:22.279897 2021] [mpm_winnt:notice] [pid 9508:tid 508] AH00364: Child: All worker threads have exited.
+[Wed Oct 27 15:45:30.795449 2021] [fcgid:error] [pid 9508] FastCGI process 6552 still did not exit, terminating forcefully
+[Wed Oct 27 15:45:30.795449 2021] [fcgid:error] [pid 9508] FastCGI process 2252 still did not exit, terminating forcefully
+[Wed Oct 27 15:45:30.795449 2021] [fcgid:error] [pid 9508] FastCGI process 11156 still did not exit, terminating forcefully
+[Wed Oct 27 15:45:30.795449 2021] [fcgid:error] [pid 9508] FastCGI process 7628 still did not exit, terminating forcefully
+[Wed Oct 27 15:45:30.795449 2021] [fcgid:error] [pid 9508] FastCGI process 3920 still did not exit, terminating forcefully
+[Wed Oct 27 15:45:37.561063 2021] [mpm_winnt:notice] [pid 6464:tid 600] AH00430: Parent: Child process 9508 exited successfully.
+[Wed Oct 27 15:46:45.683913 2021] [ssl:warn] [pid 4100:tid 628] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Oct 27 15:46:45.699620 2021] [mpm_winnt:notice] [pid 4100:tid 628] AH00455: Apache/2.4.51 (Win64) mod_fcgid/2.3.10-dev OpenSSL/1.1.1l configured -- resuming normal operations
+[Wed Oct 27 15:46:45.699620 2021] [mpm_winnt:notice] [pid 4100:tid 628] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Wed Oct 27 15:46:45.699620 2021] [core:notice] [pid 4100:tid 628] AH00094: Command line: 'C:\\webserver\\Apache24\\bin\\httpd.exe -d C:/webserver/Apache24'
+[Wed Oct 27 15:46:45.699620 2021] [mpm_winnt:notice] [pid 4100:tid 628] AH00418: Parent: Created child process 1808
+[Wed Oct 27 15:46:46.350255 2021] [ssl:warn] [pid 1808:tid 520] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Oct 27 15:46:46.350255 2021] [mpm_winnt:notice] [pid 1808:tid 520] AH00354: Child: Starting 64 worker threads.
+[Wed Oct 27 18:05:45.667940 2021] [core:warn] [pid 3512:tid 644] AH00098: pid file C:/webserver/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Oct 27 18:05:45.736671 2021] [ssl:warn] [pid 3512:tid 644] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Oct 27 18:05:45.736671 2021] [mpm_winnt:notice] [pid 3512:tid 644] AH00455: Apache/2.4.51 (Win64) mod_fcgid/2.3.10-dev OpenSSL/1.1.1l configured -- resuming normal operations
+[Wed Oct 27 18:05:45.736671 2021] [mpm_winnt:notice] [pid 3512:tid 644] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Wed Oct 27 18:05:45.736671 2021] [core:notice] [pid 3512:tid 644] AH00094: Command line: 'C:\\webserver\\Apache24\\bin\\httpd.exe -d C:/webserver/Apache24'
+[Wed Oct 27 18:05:45.736671 2021] [mpm_winnt:notice] [pid 3512:tid 644] AH00418: Parent: Created child process 4388
+[Wed Oct 27 18:05:47.405596 2021] [ssl:warn] [pid 4388:tid 576] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Oct 27 18:05:47.421221 2021] [mpm_winnt:notice] [pid 4388:tid 576] AH00354: Child: Starting 64 worker threads.
+[Sat Oct 30 11:34:53.195606 2021] [core:warn] [pid 3384:tid 584] AH00098: pid file C:/webserver/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Oct 30 11:34:53.351854 2021] [ssl:warn] [pid 3384:tid 584] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sat Oct 30 11:34:53.351854 2021] [mpm_winnt:notice] [pid 3384:tid 584] AH00455: Apache/2.4.51 (Win64) mod_fcgid/2.3.10-dev OpenSSL/1.1.1l configured -- resuming normal operations
+[Sat Oct 30 11:34:53.351854 2021] [mpm_winnt:notice] [pid 3384:tid 584] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Sat Oct 30 11:34:53.351854 2021] [core:notice] [pid 3384:tid 584] AH00094: Command line: 'C:\\webserver\\Apache24\\bin\\httpd.exe -d C:/webserver/Apache24'
+[Sat Oct 30 11:34:53.367479 2021] [mpm_winnt:notice] [pid 3384:tid 584] AH00418: Parent: Created child process 5688
+[Sat Oct 30 11:34:54.590252 2021] [ssl:warn] [pid 5688:tid 484] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sat Oct 30 11:34:54.590252 2021] [mpm_winnt:notice] [pid 5688:tid 484] AH00354: Child: Starting 64 worker threads.
+[Wed Nov 03 08:17:50.269994 2021] [core:warn] [pid 3356:tid 572] AH00098: pid file C:/webserver/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Nov 03 08:17:50.310464 2021] [ssl:warn] [pid 3356:tid 572] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Nov 03 08:17:50.310464 2021] [mpm_winnt:notice] [pid 3356:tid 572] AH00455: Apache/2.4.51 (Win64) mod_fcgid/2.3.10-dev OpenSSL/1.1.1l configured -- resuming normal operations
+[Wed Nov 03 08:17:50.310464 2021] [mpm_winnt:notice] [pid 3356:tid 572] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Wed Nov 03 08:17:50.310464 2021] [core:notice] [pid 3356:tid 572] AH00094: Command line: 'C:\\webserver\\Apache24\\bin\\httpd.exe -d C:/webserver/Apache24'
+[Wed Nov 03 08:17:50.310464 2021] [mpm_winnt:notice] [pid 3356:tid 572] AH00418: Parent: Created child process 4988
+[Wed Nov 03 08:17:51.908067 2021] [ssl:warn] [pid 4988:tid 564] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Nov 03 08:17:51.908067 2021] [mpm_winnt:notice] [pid 4988:tid 564] AH00354: Child: Starting 64 worker threads.
+[Wed Nov 03 10:10:20.446619 2021] [mpm_winnt:notice] [pid 3356:tid 572] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Nov 03 10:10:25.399787 2021] [mpm_winnt:notice] [pid 4988:tid 564] AH00364: Child: All worker threads have exited.
+[Wed Nov 03 10:10:48.188272 2021] [mpm_winnt:notice] [pid 3356:tid 572] AH00430: Parent: Child process 4988 exited successfully.
+[Wed Nov 03 10:12:06.913984 2021] [ssl:warn] [pid 3196:tid 608] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Nov 03 10:12:06.913984 2021] [mpm_winnt:notice] [pid 3196:tid 608] AH00455: Apache/2.4.51 (Win64) mod_fcgid/2.3.10-dev OpenSSL/1.1.1l configured -- resuming normal operations
+[Wed Nov 03 10:12:06.913984 2021] [mpm_winnt:notice] [pid 3196:tid 608] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Wed Nov 03 10:12:06.913984 2021] [core:notice] [pid 3196:tid 608] AH00094: Command line: 'C:\\webserver\\Apache24\\bin\\httpd.exe -d C:/webserver/Apache24'
+[Wed Nov 03 10:12:06.929631 2021] [mpm_winnt:notice] [pid 3196:tid 608] AH00418: Parent: Created child process 4428
+[Wed Nov 03 10:12:08.467870 2021] [ssl:warn] [pid 4428:tid 552] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Nov 03 10:12:08.545787 2021] [mpm_winnt:notice] [pid 4428:tid 552] AH00354: Child: Starting 64 worker threads.
+[Wed Nov 03 20:49:12.601044 2021] [core:warn] [pid 3432:tid 692] AH00098: pid file C:/webserver/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Nov 03 20:49:12.932716 2021] [ssl:warn] [pid 3432:tid 692] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Nov 03 20:49:12.932716 2021] [mpm_winnt:notice] [pid 3432:tid 692] AH00455: Apache/2.4.51 (Win64) mod_fcgid/2.3.10-dev OpenSSL/1.1.1l configured -- resuming normal operations
+[Wed Nov 03 20:49:12.932716 2021] [mpm_winnt:notice] [pid 3432:tid 692] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Wed Nov 03 20:49:12.932716 2021] [core:notice] [pid 3432:tid 692] AH00094: Command line: 'C:\\webserver\\Apache24\\bin\\httpd.exe -d C:/webserver/Apache24'
+[Wed Nov 03 20:49:12.932716 2021] [mpm_winnt:notice] [pid 3432:tid 692] AH00418: Parent: Created child process 3744
+[Wed Nov 03 20:49:14.831061 2021] [ssl:warn] [pid 3744:tid 580] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Nov 03 20:49:14.831061 2021] [mpm_winnt:notice] [pid 3744:tid 580] AH00354: Child: Starting 64 worker threads.
+[Sun Nov 07 12:26:57.840159 2021] [core:warn] [pid 3572:tid 508] AH00098: pid file C:/webserver/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Nov 07 12:26:57.898802 2021] [ssl:warn] [pid 3572:tid 508] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sun Nov 07 12:26:57.898802 2021] [mpm_winnt:notice] [pid 3572:tid 508] AH00455: Apache/2.4.51 (Win64) mod_fcgid/2.3.10-dev OpenSSL/1.1.1l configured -- resuming normal operations
+[Sun Nov 07 12:26:57.898802 2021] [mpm_winnt:notice] [pid 3572:tid 508] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Sun Nov 07 12:26:57.898802 2021] [core:notice] [pid 3572:tid 508] AH00094: Command line: 'C:\\webserver\\Apache24\\bin\\httpd.exe -d C:/webserver/Apache24'
+[Sun Nov 07 12:26:57.900862 2021] [mpm_winnt:notice] [pid 3572:tid 508] AH00418: Parent: Created child process 4972
+[Sun Nov 07 12:26:59.698097 2021] [ssl:warn] [pid 4972:tid 508] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sun Nov 07 12:26:59.713638 2021] [mpm_winnt:notice] [pid 4972:tid 508] AH00354: Child: Starting 64 worker threads.
+[Sun Nov 07 17:51:28.730538 2021] [core:warn] [pid 3272:tid 568] AH00098: pid file C:/webserver/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Nov 07 17:51:28.882260 2021] [ssl:warn] [pid 3272:tid 568] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sun Nov 07 17:51:28.882260 2021] [mpm_winnt:notice] [pid 3272:tid 568] AH00455: Apache/2.4.51 (Win64) mod_fcgid/2.3.10-dev OpenSSL/1.1.1l configured -- resuming normal operations
+[Sun Nov 07 17:51:28.882260 2021] [mpm_winnt:notice] [pid 3272:tid 568] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Sun Nov 07 17:51:28.882260 2021] [core:notice] [pid 3272:tid 568] AH00094: Command line: 'C:\\webserver\\Apache24\\bin\\httpd.exe -d C:/webserver/Apache24'
+[Sun Nov 07 17:51:28.882260 2021] [mpm_winnt:notice] [pid 3272:tid 568] AH00418: Parent: Created child process 4768
+[Sun Nov 07 17:51:30.774872 2021] [ssl:warn] [pid 4768:tid 552] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sun Nov 07 17:51:30.786998 2021] [mpm_winnt:notice] [pid 4768:tid 552] AH00354: Child: Starting 64 worker threads.
+[Tue Nov 09 15:10:42.932157 2021] [core:warn] [pid 3132:tid 484] AH00098: pid file C:/webserver/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Nov 09 15:10:43.084420 2021] [ssl:warn] [pid 3132:tid 484] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Tue Nov 09 15:10:43.084420 2021] [mpm_winnt:notice] [pid 3132:tid 484] AH00455: Apache/2.4.51 (Win64) mod_fcgid/2.3.10-dev OpenSSL/1.1.1l configured -- resuming normal operations
+[Tue Nov 09 15:10:43.084420 2021] [mpm_winnt:notice] [pid 3132:tid 484] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Tue Nov 09 15:10:43.084420 2021] [core:notice] [pid 3132:tid 484] AH00094: Command line: 'C:\\webserver\\Apache24\\bin\\httpd.exe -d C:/webserver/Apache24'
+[Tue Nov 09 15:10:43.084420 2021] [mpm_winnt:notice] [pid 3132:tid 484] AH00418: Parent: Created child process 4448
+[Tue Nov 09 15:10:44.440382 2021] [ssl:warn] [pid 4448:tid 596] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Tue Nov 09 15:10:44.626259 2021] [mpm_winnt:notice] [pid 4448:tid 596] AH00354: Child: Starting 64 worker threads.
+[Wed Nov 10 05:44:39.896559 2021] [core:warn] [pid 3508:tid 620] AH00098: pid file C:/webserver/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Nov 10 05:44:39.967324 2021] [ssl:warn] [pid 3508:tid 620] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Nov 10 05:44:39.967324 2021] [mpm_winnt:notice] [pid 3508:tid 620] AH00455: Apache/2.4.51 (Win64) mod_fcgid/2.3.10-dev OpenSSL/1.1.1l configured -- resuming normal operations
+[Wed Nov 10 05:44:39.967324 2021] [mpm_winnt:notice] [pid 3508:tid 620] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Wed Nov 10 05:44:39.967324 2021] [core:notice] [pid 3508:tid 620] AH00094: Command line: 'C:\\webserver\\Apache24\\bin\\httpd.exe -d C:/webserver/Apache24'
+[Wed Nov 10 05:44:39.967324 2021] [mpm_winnt:notice] [pid 3508:tid 620] AH00418: Parent: Created child process 3320
+[Wed Nov 10 05:44:41.821722 2021] [ssl:warn] [pid 3320:tid 592] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Nov 10 05:44:41.837900 2021] [mpm_winnt:notice] [pid 3320:tid 592] AH00354: Child: Starting 64 worker threads.
+[Wed Nov 10 05:52:19.524416 2021] [mpm_winnt:notice] [pid 3508:tid 620] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Nov 10 05:52:21.555744 2021] [mpm_winnt:notice] [pid 3320:tid 592] AH00364: Child: All worker threads have exited.
+[Wed Nov 10 05:52:30.071305 2021] [fcgid:error] [pid 3320] FastCGI process 10128 still did not exit, terminating forcefully
+[Wed Nov 10 05:52:31.087027 2021] [mpm_winnt:notice] [pid 3508:tid 620] AH00430: Parent: Child process 3320 exited successfully.
+[Wed Nov 10 05:53:23.426335 2021] [ssl:warn] [pid 3616:tid 632] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Nov 10 05:53:23.452064 2021] [mpm_winnt:notice] [pid 3616:tid 632] AH00455: Apache/2.4.51 (Win64) mod_fcgid/2.3.10-dev OpenSSL/1.1.1l configured -- resuming normal operations
+[Wed Nov 10 05:53:23.452064 2021] [mpm_winnt:notice] [pid 3616:tid 632] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Wed Nov 10 05:53:23.452064 2021] [core:notice] [pid 3616:tid 632] AH00094: Command line: 'C:\\webserver\\Apache24\\bin\\httpd.exe -d C:/webserver/Apache24'
+[Wed Nov 10 05:53:23.452064 2021] [mpm_winnt:notice] [pid 3616:tid 632] AH00418: Parent: Created child process 5280
+[Wed Nov 10 05:53:24.610486 2021] [ssl:warn] [pid 5280:tid 544] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Nov 10 05:53:24.612529 2021] [mpm_winnt:notice] [pid 5280:tid 544] AH00354: Child: Starting 64 worker threads.
+[Thu Nov 11 17:02:20.309177 2021] [core:warn] [pid 3376:tid 504] AH00098: pid file C:/webserver/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Nov 11 17:02:20.329428 2021] [ssl:warn] [pid 3376:tid 504] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Nov 11 17:02:20.329428 2021] [mpm_winnt:notice] [pid 3376:tid 504] AH00455: Apache/2.4.51 (Win64) mod_fcgid/2.3.10-dev OpenSSL/1.1.1l configured -- resuming normal operations
+[Thu Nov 11 17:02:20.329428 2021] [mpm_winnt:notice] [pid 3376:tid 504] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Thu Nov 11 17:02:20.329428 2021] [core:notice] [pid 3376:tid 504] AH00094: Command line: 'C:\\webserver\\Apache24\\bin\\httpd.exe -d C:/webserver/Apache24'
+[Thu Nov 11 17:02:20.337527 2021] [mpm_winnt:notice] [pid 3376:tid 504] AH00418: Parent: Created child process 5232
+[Thu Nov 11 17:02:21.927878 2021] [ssl:warn] [pid 5232:tid 608] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Nov 11 17:02:21.938019 2021] [mpm_winnt:notice] [pid 5232:tid 608] AH00354: Child: Starting 64 worker threads.
+[Fri Nov 12 08:07:59.600365 2021] [core:warn] [pid 3400:tid 504] AH00098: pid file C:/webserver/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Nov 12 08:07:59.630704 2021] [ssl:warn] [pid 3400:tid 504] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Nov 12 08:07:59.638779 2021] [mpm_winnt:notice] [pid 3400:tid 504] AH00455: Apache/2.4.51 (Win64) mod_fcgid/2.3.10-dev OpenSSL/1.1.1l configured -- resuming normal operations
+[Fri Nov 12 08:07:59.638779 2021] [mpm_winnt:notice] [pid 3400:tid 504] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Fri Nov 12 08:07:59.638779 2021] [core:notice] [pid 3400:tid 504] AH00094: Command line: 'C:\\webserver\\Apache24\\bin\\httpd.exe -d C:/webserver/Apache24'
+[Fri Nov 12 08:07:59.640816 2021] [mpm_winnt:notice] [pid 3400:tid 504] AH00418: Parent: Created child process 4108
+[Fri Nov 12 08:08:01.024351 2021] [ssl:warn] [pid 4108:tid 468] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Nov 12 08:08:01.081970 2021] [mpm_winnt:notice] [pid 4108:tid 468] AH00354: Child: Starting 64 worker threads.
+[Fri Nov 12 22:08:29.923172 2021] [core:warn] [pid 3436:tid 564] AH00098: pid file C:/webserver/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Nov 12 22:08:30.034632 2021] [ssl:warn] [pid 3436:tid 564] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Nov 12 22:08:30.034632 2021] [mpm_winnt:notice] [pid 3436:tid 564] AH00455: Apache/2.4.51 (Win64) mod_fcgid/2.3.10-dev OpenSSL/1.1.1l configured -- resuming normal operations
+[Fri Nov 12 22:08:30.034632 2021] [mpm_winnt:notice] [pid 3436:tid 564] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Fri Nov 12 22:08:30.034632 2021] [core:notice] [pid 3436:tid 564] AH00094: Command line: 'C:\\webserver\\Apache24\\bin\\httpd.exe -d C:/webserver/Apache24'
+[Fri Nov 12 22:08:30.034632 2021] [mpm_winnt:notice] [pid 3436:tid 564] AH00418: Parent: Created child process 5060
+[Fri Nov 12 22:08:32.109637 2021] [ssl:warn] [pid 5060:tid 648] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Nov 12 22:08:32.109637 2021] [mpm_winnt:notice] [pid 5060:tid 648] AH00354: Child: Starting 64 worker threads.
+[Fri Nov 12 23:49:20.353468 2021] [core:warn] [pid 3492:tid 608] AH00098: pid file C:/webserver/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Nov 12 23:49:20.527725 2021] [ssl:warn] [pid 3492:tid 608] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Nov 12 23:49:20.527725 2021] [mpm_winnt:notice] [pid 3492:tid 608] AH00455: Apache/2.4.51 (Win64) mod_fcgid/2.3.10-dev OpenSSL/1.1.1l configured -- resuming normal operations
+[Fri Nov 12 23:49:20.527725 2021] [mpm_winnt:notice] [pid 3492:tid 608] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Fri Nov 12 23:49:20.527725 2021] [core:notice] [pid 3492:tid 608] AH00094: Command line: 'C:\\webserver\\Apache24\\bin\\httpd.exe -d C:/webserver/Apache24'
+[Fri Nov 12 23:49:20.543352 2021] [mpm_winnt:notice] [pid 3492:tid 608] AH00418: Parent: Created child process 5152
+[Fri Nov 12 23:49:22.235341 2021] [ssl:warn] [pid 5152:tid 524] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Nov 12 23:49:22.237397 2021] [mpm_winnt:notice] [pid 5152:tid 524] AH00354: Child: Starting 64 worker threads.
+[Wed Nov 17 14:15:54.551776 2021] [core:warn] [pid 3456:tid 576] AH00098: pid file C:/webserver/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Nov 17 14:15:54.734234 2021] [ssl:warn] [pid 3456:tid 576] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Nov 17 14:15:54.734234 2021] [mpm_winnt:notice] [pid 3456:tid 576] AH00455: Apache/2.4.51 (Win64) mod_fcgid/2.3.10-dev OpenSSL/1.1.1l configured -- resuming normal operations
+[Wed Nov 17 14:15:54.734234 2021] [mpm_winnt:notice] [pid 3456:tid 576] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Wed Nov 17 14:15:54.734234 2021] [core:notice] [pid 3456:tid 576] AH00094: Command line: 'C:\\webserver\\Apache24\\bin\\httpd.exe -d C:/webserver/Apache24'
+[Wed Nov 17 14:15:54.734234 2021] [mpm_winnt:notice] [pid 3456:tid 576] AH00418: Parent: Created child process 5024
+[Wed Nov 17 14:15:56.719580 2021] [ssl:warn] [pid 5024:tid 556] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Nov 17 14:15:56.729692 2021] [mpm_winnt:notice] [pid 5024:tid 556] AH00354: Child: Starting 64 worker threads.
+[Fri Nov 19 17:00:00.964827 2021] [core:warn] [pid 3396:tid 576] AH00098: pid file C:/webserver/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Nov 19 17:00:01.126707 2021] [ssl:warn] [pid 3396:tid 576] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Nov 19 17:00:01.126707 2021] [mpm_winnt:notice] [pid 3396:tid 576] AH00455: Apache/2.4.51 (Win64) mod_fcgid/2.3.10-dev OpenSSL/1.1.1l configured -- resuming normal operations
+[Fri Nov 19 17:00:01.126707 2021] [mpm_winnt:notice] [pid 3396:tid 576] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Fri Nov 19 17:00:01.126707 2021] [core:notice] [pid 3396:tid 576] AH00094: Command line: 'C:\\webserver\\Apache24\\bin\\httpd.exe -d C:/webserver/Apache24'
+[Fri Nov 19 17:00:01.126707 2021] [mpm_winnt:notice] [pid 3396:tid 576] AH00418: Parent: Created child process 4352
+[Fri Nov 19 17:00:03.000187 2021] [ssl:warn] [pid 4352:tid 540] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Nov 19 17:00:03.000187 2021] [mpm_winnt:notice] [pid 4352:tid 540] AH00354: Child: Starting 64 worker threads.
+[Fri Nov 19 18:11:39.792201 2021] [core:warn] [pid 3404:tid 608] AH00098: pid file C:/webserver/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Nov 19 18:11:39.812475 2021] [ssl:warn] [pid 3404:tid 608] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Nov 19 18:11:39.812475 2021] [mpm_winnt:notice] [pid 3404:tid 608] AH00455: Apache/2.4.51 (Win64) mod_fcgid/2.3.10-dev OpenSSL/1.1.1l configured -- resuming normal operations
+[Fri Nov 19 18:11:39.812475 2021] [mpm_winnt:notice] [pid 3404:tid 608] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Fri Nov 19 18:11:39.812475 2021] [core:notice] [pid 3404:tid 608] AH00094: Command line: 'C:\\webserver\\Apache24\\bin\\httpd.exe -d C:/webserver/Apache24'
+[Fri Nov 19 18:11:39.812475 2021] [mpm_winnt:notice] [pid 3404:tid 608] AH00418: Parent: Created child process 4768
+[Fri Nov 19 18:11:41.284524 2021] [ssl:warn] [pid 4768:tid 528] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Nov 19 18:11:41.284524 2021] [mpm_winnt:notice] [pid 4768:tid 528] AH00354: Child: Starting 64 worker threads.
+[Sat Nov 20 11:42:46.517118 2021] [core:warn] [pid 3724:tid 588] AH00098: pid file C:/webserver/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Nov 20 11:42:46.648777 2021] [ssl:warn] [pid 3724:tid 588] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sat Nov 20 11:42:46.648777 2021] [mpm_winnt:notice] [pid 3724:tid 588] AH00455: Apache/2.4.51 (Win64) mod_fcgid/2.3.10-dev OpenSSL/1.1.1l configured -- resuming normal operations
+[Sat Nov 20 11:42:46.648777 2021] [mpm_winnt:notice] [pid 3724:tid 588] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Sat Nov 20 11:42:46.648777 2021] [core:notice] [pid 3724:tid 588] AH00094: Command line: 'C:\\webserver\\Apache24\\bin\\httpd.exe -d C:/webserver/Apache24'
+[Sat Nov 20 11:42:46.655342 2021] [mpm_winnt:notice] [pid 3724:tid 588] AH00418: Parent: Created child process 4676
+[Sat Nov 20 11:42:48.077292 2021] [ssl:warn] [pid 4676:tid 528] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sat Nov 20 11:42:48.092892 2021] [mpm_winnt:notice] [pid 4676:tid 528] AH00354: Child: Starting 64 worker threads.
+[Sat Nov 20 11:44:23.872733 2021] [mpm_winnt:notice] [pid 3724:tid 588] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Nov 20 11:44:25.904005 2021] [mpm_winnt:notice] [pid 4676:tid 528] AH00364: Child: All worker threads have exited.
+[Sat Nov 20 11:44:26.575854 2021] [mpm_winnt:notice] [pid 3724:tid 588] AH00430: Parent: Child process 4676 exited successfully.
+[Sat Nov 20 11:45:48.270852 2021] [ssl:warn] [pid 3516:tid 556] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sat Nov 20 11:45:48.447613 2021] [mpm_winnt:notice] [pid 3516:tid 556] AH00455: Apache/2.4.51 (Win64) mod_fcgid/2.3.10-dev OpenSSL/1.1.1l configured -- resuming normal operations
+[Sat Nov 20 11:45:48.447613 2021] [mpm_winnt:notice] [pid 3516:tid 556] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Sat Nov 20 11:45:48.447613 2021] [core:notice] [pid 3516:tid 556] AH00094: Command line: 'C:\\webserver\\Apache24\\bin\\httpd.exe -d C:/webserver/Apache24'
+[Sat Nov 20 11:45:48.456629 2021] [mpm_winnt:notice] [pid 3516:tid 556] AH00418: Parent: Created child process 4416
+[Sat Nov 20 11:45:49.750577 2021] [ssl:warn] [pid 4416:tid 512] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sat Nov 20 11:45:49.767211 2021] [mpm_winnt:notice] [pid 4416:tid 512] AH00354: Child: Starting 64 worker threads.
+[Sun Nov 21 21:13:00.020698 2021] [core:warn] [pid 3348:tid 588] AH00098: pid file C:/webserver/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Nov 21 21:13:00.105400 2021] [ssl:warn] [pid 3348:tid 588] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sun Nov 21 21:13:00.105400 2021] [mpm_winnt:notice] [pid 3348:tid 588] AH00455: Apache/2.4.51 (Win64) mod_fcgid/2.3.10-dev OpenSSL/1.1.1l configured -- resuming normal operations
+[Sun Nov 21 21:13:00.105400 2021] [mpm_winnt:notice] [pid 3348:tid 588] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Sun Nov 21 21:13:00.105400 2021] [core:notice] [pid 3348:tid 588] AH00094: Command line: 'C:\\webserver\\Apache24\\bin\\httpd.exe -d C:/webserver/Apache24'
+[Sun Nov 21 21:13:00.105400 2021] [mpm_winnt:notice] [pid 3348:tid 588] AH00418: Parent: Created child process 4480
+[Sun Nov 21 21:13:01.978808 2021] [ssl:warn] [pid 4480:tid 548] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sun Nov 21 21:13:02.236204 2021] [mpm_winnt:notice] [pid 4480:tid 548] AH00354: Child: Starting 64 worker threads.
+[Mon Nov 22 02:14:09.926280 2021] [mpm_winnt:notice] [pid 3348:tid 588] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Nov 22 02:14:11.957620 2021] [mpm_winnt:notice] [pid 4480:tid 548] AH00364: Child: All worker threads have exited.
+[Mon Nov 22 02:14:12.582528 2021] [mpm_winnt:notice] [pid 3348:tid 588] AH00430: Parent: Child process 4480 exited successfully.
+[Mon Nov 22 14:29:09.724110 2021] [ssl:warn] [pid 3644:tid 596] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Mon Nov 22 14:29:09.724110 2021] [mpm_winnt:notice] [pid 3644:tid 596] AH00455: Apache/2.4.51 (Win64) mod_fcgid/2.3.10-dev OpenSSL/1.1.1l configured -- resuming normal operations
+[Mon Nov 22 14:29:09.724110 2021] [mpm_winnt:notice] [pid 3644:tid 596] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Mon Nov 22 14:29:09.724110 2021] [core:notice] [pid 3644:tid 596] AH00094: Command line: 'C:\\webserver\\Apache24\\bin\\httpd.exe -d C:/webserver/Apache24'
+[Mon Nov 22 14:29:09.732167 2021] [mpm_winnt:notice] [pid 3644:tid 596] AH00418: Parent: Created child process 5156
+[Mon Nov 22 14:29:11.817594 2021] [ssl:warn] [pid 5156:tid 560] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Mon Nov 22 14:29:11.834234 2021] [mpm_winnt:notice] [pid 5156:tid 560] AH00354: Child: Starting 64 worker threads.
+[Tue Nov 23 11:28:01.090171 2021] [core:warn] [pid 3528:tid 564] AH00098: pid file C:/webserver/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Nov 23 11:28:01.254030 2021] [ssl:warn] [pid 3528:tid 564] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Tue Nov 23 11:28:01.254030 2021] [mpm_winnt:notice] [pid 3528:tid 564] AH00455: Apache/2.4.51 (Win64) mod_fcgid/2.3.10-dev OpenSSL/1.1.1l configured -- resuming normal operations
+[Tue Nov 23 11:28:01.254030 2021] [mpm_winnt:notice] [pid 3528:tid 564] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Tue Nov 23 11:28:01.254030 2021] [core:notice] [pid 3528:tid 564] AH00094: Command line: 'C:\\webserver\\Apache24\\bin\\httpd.exe -d C:/webserver/Apache24'
+[Tue Nov 23 11:28:01.254030 2021] [mpm_winnt:notice] [pid 3528:tid 564] AH00418: Parent: Created child process 5056
+[Tue Nov 23 11:28:02.803241 2021] [ssl:warn] [pid 5056:tid 532] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Tue Nov 23 11:28:02.805291 2021] [mpm_winnt:notice] [pid 5056:tid 532] AH00354: Child: Starting 64 worker threads.
+[Tue Nov 23 11:37:04.499056 2021] [core:warn] [pid 3516:tid 680] AH00098: pid file C:/webserver/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Nov 23 11:37:04.509172 2021] [ssl:warn] [pid 3516:tid 680] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Tue Nov 23 11:37:04.509172 2021] [mpm_winnt:notice] [pid 3516:tid 680] AH00455: Apache/2.4.51 (Win64) mod_fcgid/2.3.10-dev OpenSSL/1.1.1l configured -- resuming normal operations
+[Tue Nov 23 11:37:04.509172 2021] [mpm_winnt:notice] [pid 3516:tid 680] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Tue Nov 23 11:37:04.509172 2021] [core:notice] [pid 3516:tid 680] AH00094: Command line: 'C:\\webserver\\Apache24\\bin\\httpd.exe -d C:/webserver/Apache24'
+[Tue Nov 23 11:37:04.509172 2021] [mpm_winnt:notice] [pid 3516:tid 680] AH00418: Parent: Created child process 5060
+[Tue Nov 23 11:37:06.774525 2021] [ssl:warn] [pid 5060:tid 512] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Tue Nov 23 11:37:06.782580 2021] [mpm_winnt:notice] [pid 5060:tid 512] AH00354: Child: Starting 64 worker threads.
+[Wed Nov 24 07:26:33.115287 2021] [core:warn] [pid 3504:tid 564] AH00098: pid file C:/webserver/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Nov 24 07:26:33.259894 2021] [ssl:warn] [pid 3504:tid 564] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Nov 24 07:26:33.259894 2021] [mpm_winnt:notice] [pid 3504:tid 564] AH00455: Apache/2.4.51 (Win64) mod_fcgid/2.3.10-dev OpenSSL/1.1.1l configured -- resuming normal operations
+[Wed Nov 24 07:26:33.259894 2021] [mpm_winnt:notice] [pid 3504:tid 564] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Wed Nov 24 07:26:33.259894 2021] [core:notice] [pid 3504:tid 564] AH00094: Command line: 'C:\\webserver\\Apache24\\bin\\httpd.exe -d C:/webserver/Apache24'
+[Wed Nov 24 07:26:33.259894 2021] [mpm_winnt:notice] [pid 3504:tid 564] AH00418: Parent: Created child process 4768
+[Wed Nov 24 07:26:36.472691 2021] [ssl:warn] [pid 4768:tid 608] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Nov 24 07:26:36.488336 2021] [mpm_winnt:notice] [pid 4768:tid 608] AH00354: Child: Starting 64 worker threads.
+[Wed Nov 24 17:03:22.643928 2021] [mpm_winnt:notice] [pid 3504:tid 564] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Nov 24 17:03:24.675258 2021] [mpm_winnt:notice] [pid 4768:tid 608] AH00364: Child: All worker threads have exited.
+[Wed Nov 24 17:03:33.207745 2021] [fcgid:error] [pid 4768] FastCGI process 1496 still did not exit, terminating forcefully
+[Wed Nov 24 17:03:33.207745 2021] [fcgid:error] [pid 4768] FastCGI process 8916 still did not exit, terminating forcefully
+[Wed Nov 24 17:03:33.207745 2021] [fcgid:error] [pid 4768] FastCGI process 1616 still did not exit, terminating forcefully
+[Wed Nov 24 17:03:33.207745 2021] [fcgid:error] [pid 4768] FastCGI process 1708 still did not exit, terminating forcefully
+[Wed Nov 24 17:03:34.348368 2021] [mpm_winnt:notice] [pid 3504:tid 564] AH00430: Parent: Child process 4768 exited successfully.
+[Wed Nov 24 17:04:32.547400 2021] [ssl:warn] [pid 3508:tid 592] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Nov 24 17:04:32.663371 2021] [mpm_winnt:notice] [pid 3508:tid 592] AH00455: Apache/2.4.51 (Win64) mod_fcgid/2.3.10-dev OpenSSL/1.1.1l configured -- resuming normal operations
+[Wed Nov 24 17:04:32.663371 2021] [mpm_winnt:notice] [pid 3508:tid 592] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Wed Nov 24 17:04:32.663371 2021] [core:notice] [pid 3508:tid 592] AH00094: Command line: 'C:\\webserver\\Apache24\\bin\\httpd.exe -d C:/webserver/Apache24'
+[Wed Nov 24 17:04:32.663371 2021] [mpm_winnt:notice] [pid 3508:tid 592] AH00418: Parent: Created child process 5320
+[Wed Nov 24 17:04:34.402150 2021] [ssl:warn] [pid 5320:tid 596] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Nov 24 17:04:34.412265 2021] [mpm_winnt:notice] [pid 5320:tid 596] AH00354: Child: Starting 64 worker threads.
+[Thu Nov 25 15:51:24.758648 2021] [core:warn] [pid 3612:tid 624] AH00098: pid file C:/webserver/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Nov 25 15:51:24.821680 2021] [ssl:warn] [pid 3612:tid 624] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Nov 25 15:51:24.821680 2021] [mpm_winnt:notice] [pid 3612:tid 624] AH00455: Apache/2.4.51 (Win64) mod_fcgid/2.3.10-dev OpenSSL/1.1.1l configured -- resuming normal operations
+[Thu Nov 25 15:51:24.821680 2021] [mpm_winnt:notice] [pid 3612:tid 624] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Thu Nov 25 15:51:24.821680 2021] [core:notice] [pid 3612:tid 624] AH00094: Command line: 'C:\\webserver\\Apache24\\bin\\httpd.exe -d C:/webserver/Apache24'
+[Thu Nov 25 15:51:24.821680 2021] [mpm_winnt:notice] [pid 3612:tid 624] AH00418: Parent: Created child process 2240
+[Thu Nov 25 15:51:26.934886 2021] [ssl:warn] [pid 2240:tid 476] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Nov 25 15:51:26.934886 2021] [mpm_winnt:notice] [pid 2240:tid 476] AH00354: Child: Starting 64 worker threads.
+[Thu Nov 25 23:04:27.276264 2021] [core:warn] [pid 3512:tid 576] AH00098: pid file C:/webserver/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Nov 25 23:04:27.309012 2021] [ssl:warn] [pid 3512:tid 576] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Nov 25 23:04:27.309012 2021] [mpm_winnt:notice] [pid 3512:tid 576] AH00455: Apache/2.4.51 (Win64) mod_fcgid/2.3.10-dev OpenSSL/1.1.1l configured -- resuming normal operations
+[Thu Nov 25 23:04:27.309012 2021] [mpm_winnt:notice] [pid 3512:tid 576] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Thu Nov 25 23:04:27.309012 2021] [core:notice] [pid 3512:tid 576] AH00094: Command line: 'C:\\webserver\\Apache24\\bin\\httpd.exe -d C:/webserver/Apache24'
+[Thu Nov 25 23:04:27.309012 2021] [mpm_winnt:notice] [pid 3512:tid 576] AH00418: Parent: Created child process 3480
+[Thu Nov 25 23:04:30.449521 2021] [ssl:warn] [pid 3480:tid 580] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Nov 25 23:04:30.449521 2021] [mpm_winnt:notice] [pid 3480:tid 580] AH00354: Child: Starting 64 worker threads.
+[Thu Dec 02 11:39:34.251443 2021] [core:warn] [pid 3528:tid 584] AH00098: pid file C:/webserver/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Dec 02 11:39:34.259554 2021] [ssl:warn] [pid 3528:tid 584] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Dec 02 11:39:34.261636 2021] [mpm_winnt:notice] [pid 3528:tid 584] AH00455: Apache/2.4.51 (Win64) mod_fcgid/2.3.10-dev OpenSSL/1.1.1l configured -- resuming normal operations
+[Thu Dec 02 11:39:34.261636 2021] [mpm_winnt:notice] [pid 3528:tid 584] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Thu Dec 02 11:39:34.261636 2021] [core:notice] [pid 3528:tid 584] AH00094: Command line: 'C:\\webserver\\Apache24\\bin\\httpd.exe -d C:/webserver/Apache24'
+[Thu Dec 02 11:39:34.261636 2021] [mpm_winnt:notice] [pid 3528:tid 584] AH00418: Parent: Created child process 4932
+[Thu Dec 02 11:39:36.963961 2021] [ssl:warn] [pid 4932:tid 508] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Dec 02 11:39:36.965998 2021] [mpm_winnt:notice] [pid 4932:tid 508] AH00354: Child: Starting 64 worker threads.
+[Thu Dec 02 21:08:12.738304 2021] [mpm_winnt:notice] [pid 3528:tid 584] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Dec 02 21:08:16.191429 2021] [mpm_winnt:notice] [pid 4932:tid 508] AH00364: Child: All worker threads have exited.
+[Thu Dec 02 21:08:18.332073 2021] [mpm_winnt:notice] [pid 3528:tid 584] AH00430: Parent: Child process 4932 exited successfully.
+[Thu Dec 02 21:09:21.261891 2021] [ssl:warn] [pid 3708:tid 592] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Dec 02 21:09:21.383586 2021] [mpm_winnt:notice] [pid 3708:tid 592] AH00455: Apache/2.4.51 (Win64) mod_fcgid/2.3.10-dev OpenSSL/1.1.1l configured -- resuming normal operations
+[Thu Dec 02 21:09:21.383586 2021] [mpm_winnt:notice] [pid 3708:tid 592] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Thu Dec 02 21:09:21.383586 2021] [core:notice] [pid 3708:tid 592] AH00094: Command line: 'C:\\webserver\\Apache24\\bin\\httpd.exe -d C:/webserver/Apache24'
+[Thu Dec 02 21:09:21.391649 2021] [mpm_winnt:notice] [pid 3708:tid 592] AH00418: Parent: Created child process 4908
+[Thu Dec 02 21:09:23.489031 2021] [ssl:warn] [pid 4908:tid 632] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Dec 02 21:09:23.505585 2021] [mpm_winnt:notice] [pid 4908:tid 632] AH00354: Child: Starting 64 worker threads.
+[Fri Dec 03 11:51:21.318398 2021] [core:warn] [pid 3356:tid 448] AH00098: pid file C:/webserver/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Dec 03 11:51:21.452565 2021] [ssl:warn] [pid 3356:tid 448] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Dec 03 11:51:21.452565 2021] [mpm_winnt:notice] [pid 3356:tid 448] AH00455: Apache/2.4.51 (Win64) mod_fcgid/2.3.10-dev OpenSSL/1.1.1l configured -- resuming normal operations
+[Fri Dec 03 11:51:21.452565 2021] [mpm_winnt:notice] [pid 3356:tid 448] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Fri Dec 03 11:51:21.452565 2021] [core:notice] [pid 3356:tid 448] AH00094: Command line: 'C:\\webserver\\Apache24\\bin\\httpd.exe -d C:/webserver/Apache24'
+[Fri Dec 03 11:51:21.462735 2021] [mpm_winnt:notice] [pid 3356:tid 448] AH00418: Parent: Created child process 4692
+[Fri Dec 03 11:51:23.154495 2021] [ssl:warn] [pid 4692:tid 476] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Dec 03 11:51:23.154495 2021] [mpm_winnt:notice] [pid 4692:tid 476] AH00354: Child: Starting 64 worker threads.
+[Fri Dec 03 21:27:26.175508 2021] [core:warn] [pid 3488:tid 720] AH00098: pid file C:/webserver/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Dec 03 21:27:26.344329 2021] [ssl:warn] [pid 3488:tid 720] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Dec 03 21:27:26.344329 2021] [mpm_winnt:notice] [pid 3488:tid 720] AH00455: Apache/2.4.51 (Win64) mod_fcgid/2.3.10-dev OpenSSL/1.1.1l configured -- resuming normal operations
+[Fri Dec 03 21:27:26.344329 2021] [mpm_winnt:notice] [pid 3488:tid 720] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Fri Dec 03 21:27:26.344329 2021] [core:notice] [pid 3488:tid 720] AH00094: Command line: 'C:\\webserver\\Apache24\\bin\\httpd.exe -d C:/webserver/Apache24'
+[Fri Dec 03 21:27:26.344329 2021] [mpm_winnt:notice] [pid 3488:tid 720] AH00418: Parent: Created child process 5724
+[Fri Dec 03 21:27:27.266337 2021] [ssl:warn] [pid 5724:tid 564] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Dec 03 21:27:27.268352 2021] [mpm_winnt:notice] [pid 5724:tid 564] AH00354: Child: Starting 64 worker threads.
+[Sat Dec 04 00:27:10.725174 2021] [core:warn] [pid 3512:tid 668] AH00098: pid file C:/webserver/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Dec 04 00:27:10.796597 2021] [ssl:warn] [pid 3512:tid 668] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sat Dec 04 00:27:10.796597 2021] [mpm_winnt:notice] [pid 3512:tid 668] AH00455: Apache/2.4.51 (Win64) mod_fcgid/2.3.10-dev OpenSSL/1.1.1l configured -- resuming normal operations
+[Sat Dec 04 00:27:10.796597 2021] [mpm_winnt:notice] [pid 3512:tid 668] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Sat Dec 04 00:27:10.796597 2021] [core:notice] [pid 3512:tid 668] AH00094: Command line: 'C:\\webserver\\Apache24\\bin\\httpd.exe -d C:/webserver/Apache24'
+[Sat Dec 04 00:27:10.796597 2021] [mpm_winnt:notice] [pid 3512:tid 668] AH00418: Parent: Created child process 5032
+[Sat Dec 04 00:27:12.426472 2021] [ssl:warn] [pid 5032:tid 500] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sat Dec 04 00:27:12.457742 2021] [mpm_winnt:notice] [pid 5032:tid 500] AH00354: Child: Starting 64 worker threads.
+[Sun Dec 05 19:55:11.180371 2021] [core:warn] [pid 3772:tid 112] AH00098: pid file C:/webserver/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Dec 05 19:55:11.196011 2021] [ssl:warn] [pid 3772:tid 112] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sun Dec 05 19:55:11.196011 2021] [mpm_winnt:notice] [pid 3772:tid 112] AH00455: Apache/2.4.51 (Win64) mod_fcgid/2.3.10-dev OpenSSL/1.1.1l configured -- resuming normal operations
+[Sun Dec 05 19:55:11.196011 2021] [mpm_winnt:notice] [pid 3772:tid 112] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Sun Dec 05 19:55:11.196011 2021] [core:notice] [pid 3772:tid 112] AH00094: Command line: 'C:\\webserver\\Apache24\\bin\\httpd.exe -d C:/webserver/Apache24'
+[Sun Dec 05 19:55:11.196011 2021] [mpm_winnt:notice] [pid 3772:tid 112] AH00418: Parent: Created child process 5036
+[Sun Dec 05 19:55:12.196076 2021] [ssl:warn] [pid 5036:tid 544] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sun Dec 05 19:55:12.196076 2021] [mpm_winnt:notice] [pid 5036:tid 544] AH00354: Child: Starting 64 worker threads.
+[Mon Dec 06 14:27:43.473877 2021] [core:warn] [pid 3456:tid 140] AH00098: pid file C:/webserver/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Dec 06 14:27:43.482486 2021] [ssl:warn] [pid 3456:tid 140] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Mon Dec 06 14:27:43.482486 2021] [mpm_winnt:notice] [pid 3456:tid 140] AH00455: Apache/2.4.51 (Win64) mod_fcgid/2.3.10-dev OpenSSL/1.1.1l configured -- resuming normal operations
+[Mon Dec 06 14:27:43.482486 2021] [mpm_winnt:notice] [pid 3456:tid 140] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Mon Dec 06 14:27:43.482486 2021] [core:notice] [pid 3456:tid 140] AH00094: Command line: 'C:\\webserver\\Apache24\\bin\\httpd.exe -d C:/webserver/Apache24'
+[Mon Dec 06 14:27:43.482486 2021] [mpm_winnt:notice] [pid 3456:tid 140] AH00418: Parent: Created child process 4776
+[Mon Dec 06 14:27:45.115550 2021] [ssl:warn] [pid 4776:tid 604] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Mon Dec 06 14:27:45.115550 2021] [mpm_winnt:notice] [pid 4776:tid 604] AH00354: Child: Starting 64 worker threads.
+[Tue Dec 07 16:28:20.452174 2021] [core:warn] [pid 3568:tid 516] AH00098: pid file C:/webserver/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Dec 07 16:28:20.565312 2021] [ssl:warn] [pid 3568:tid 516] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Tue Dec 07 16:28:20.565312 2021] [mpm_winnt:notice] [pid 3568:tid 516] AH00455: Apache/2.4.51 (Win64) mod_fcgid/2.3.10-dev OpenSSL/1.1.1l configured -- resuming normal operations
+[Tue Dec 07 16:28:20.565312 2021] [mpm_winnt:notice] [pid 3568:tid 516] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Tue Dec 07 16:28:20.565312 2021] [core:notice] [pid 3568:tid 516] AH00094: Command line: 'C:\\webserver\\Apache24\\bin\\httpd.exe -d C:/webserver/Apache24'
+[Tue Dec 07 16:28:20.565312 2021] [mpm_winnt:notice] [pid 3568:tid 516] AH00418: Parent: Created child process 5016
+[Tue Dec 07 16:28:23.297765 2021] [ssl:warn] [pid 5016:tid 508] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Tue Dec 07 16:28:23.307874 2021] [mpm_winnt:notice] [pid 5016:tid 508] AH00354: Child: Starting 64 worker threads.
+[Wed Dec 08 14:18:41.541730 2021] [core:warn] [pid 3500:tid 580] AH00098: pid file C:/webserver/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Dec 08 14:18:41.630574 2021] [ssl:warn] [pid 3500:tid 580] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Dec 08 14:18:41.630574 2021] [mpm_winnt:notice] [pid 3500:tid 580] AH00455: Apache/2.4.51 (Win64) mod_fcgid/2.3.10-dev OpenSSL/1.1.1l configured -- resuming normal operations
+[Wed Dec 08 14:18:41.630574 2021] [mpm_winnt:notice] [pid 3500:tid 580] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Wed Dec 08 14:18:41.630574 2021] [core:notice] [pid 3500:tid 580] AH00094: Command line: 'C:\\webserver\\Apache24\\bin\\httpd.exe -d C:/webserver/Apache24'
+[Wed Dec 08 14:18:41.630574 2021] [mpm_winnt:notice] [pid 3500:tid 580] AH00418: Parent: Created child process 5092
+[Wed Dec 08 14:18:43.590151 2021] [ssl:warn] [pid 5092:tid 556] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Dec 08 14:18:43.590151 2021] [mpm_winnt:notice] [pid 5092:tid 556] AH00354: Child: Starting 64 worker threads.
+[Thu Dec 09 09:24:18.490643 2021] [core:warn] [pid 3692:tid 600] AH00098: pid file C:/webserver/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Dec 09 09:24:18.614357 2021] [ssl:warn] [pid 3692:tid 600] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Dec 09 09:24:18.622416 2021] [mpm_winnt:notice] [pid 3692:tid 600] AH00455: Apache/2.4.51 (Win64) mod_fcgid/2.3.10-dev OpenSSL/1.1.1l configured -- resuming normal operations
+[Thu Dec 09 09:24:18.622416 2021] [mpm_winnt:notice] [pid 3692:tid 600] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Thu Dec 09 09:24:18.622416 2021] [core:notice] [pid 3692:tid 600] AH00094: Command line: 'C:\\webserver\\Apache24\\bin\\httpd.exe -d C:/webserver/Apache24'
+[Thu Dec 09 09:24:18.624458 2021] [mpm_winnt:notice] [pid 3692:tid 600] AH00418: Parent: Created child process 4780
+[Thu Dec 09 09:24:20.233173 2021] [ssl:warn] [pid 4780:tid 604] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Dec 09 09:24:20.399753 2021] [mpm_winnt:notice] [pid 4780:tid 604] AH00354: Child: Starting 64 worker threads.
+[Thu Dec 09 18:01:46.831353 2021] [mpm_winnt:notice] [pid 3692:tid 600] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Dec 09 18:01:48.862681 2021] [mpm_winnt:notice] [pid 4780:tid 604] AH00364: Child: All worker threads have exited.
+[Thu Dec 09 18:01:57.464877 2021] [fcgid:error] [pid 4780] FastCGI process 6516 still did not exit, terminating forcefully
+[Thu Dec 09 18:02:02.690345 2021] [mpm_winnt:notice] [pid 3692:tid 600] AH00430: Parent: Child process 4780 exited successfully.
+[Thu Dec 09 18:03:02.016041 2021] [ssl:warn] [pid 3912:tid 636] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Dec 09 18:03:02.137448 2021] [mpm_winnt:notice] [pid 3912:tid 636] AH00455: Apache/2.4.51 (Win64) mod_fcgid/2.3.10-dev OpenSSL/1.1.1l configured -- resuming normal operations
+[Thu Dec 09 18:03:02.137448 2021] [mpm_winnt:notice] [pid 3912:tid 636] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Thu Dec 09 18:03:02.137448 2021] [core:notice] [pid 3912:tid 636] AH00094: Command line: 'C:\\webserver\\Apache24\\bin\\httpd.exe -d C:/webserver/Apache24'
+[Thu Dec 09 18:03:02.137448 2021] [mpm_winnt:notice] [pid 3912:tid 636] AH00418: Parent: Created child process 5416
+[Thu Dec 09 18:03:04.404458 2021] [ssl:warn] [pid 5416:tid 224] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Dec 09 18:03:04.420083 2021] [mpm_winnt:notice] [pid 5416:tid 224] AH00354: Child: Starting 64 worker threads.
+[Fri Dec 10 12:22:27.359536 2021] [core:warn] [pid 3708:tid 568] AH00098: pid file C:/webserver/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Dec 10 12:22:27.435349 2021] [ssl:warn] [pid 3708:tid 568] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Dec 10 12:22:27.435349 2021] [mpm_winnt:notice] [pid 3708:tid 568] AH00455: Apache/2.4.51 (Win64) mod_fcgid/2.3.10-dev OpenSSL/1.1.1l configured -- resuming normal operations
+[Fri Dec 10 12:22:27.435349 2021] [mpm_winnt:notice] [pid 3708:tid 568] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Fri Dec 10 12:22:27.435349 2021] [core:notice] [pid 3708:tid 568] AH00094: Command line: 'C:\\webserver\\Apache24\\bin\\httpd.exe -d C:/webserver/Apache24'
+[Fri Dec 10 12:22:27.438395 2021] [mpm_winnt:notice] [pid 3708:tid 568] AH00418: Parent: Created child process 5248
+[Fri Dec 10 12:22:28.836417 2021] [ssl:warn] [pid 5248:tid 512] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Dec 10 12:22:28.836417 2021] [mpm_winnt:notice] [pid 5248:tid 512] AH00354: Child: Starting 64 worker threads.
+[Fri Dec 10 19:05:59.437183 2021] [core:warn] [pid 3716:tid 564] AH00098: pid file C:/webserver/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Dec 10 19:05:59.467411 2021] [ssl:warn] [pid 3716:tid 564] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Dec 10 19:05:59.467411 2021] [mpm_winnt:notice] [pid 3716:tid 564] AH00455: Apache/2.4.51 (Win64) mod_fcgid/2.3.10-dev OpenSSL/1.1.1l configured -- resuming normal operations
+[Fri Dec 10 19:05:59.467411 2021] [mpm_winnt:notice] [pid 3716:tid 564] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Fri Dec 10 19:05:59.467411 2021] [core:notice] [pid 3716:tid 564] AH00094: Command line: 'C:\\webserver\\Apache24\\bin\\httpd.exe -d C:/webserver/Apache24'
+[Fri Dec 10 19:05:59.469455 2021] [mpm_winnt:notice] [pid 3716:tid 564] AH00418: Parent: Created child process 5256
+[Fri Dec 10 19:06:01.318897 2021] [ssl:warn] [pid 5256:tid 548] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Dec 10 19:06:01.318897 2021] [mpm_winnt:notice] [pid 5256:tid 548] AH00354: Child: Starting 64 worker threads.
+[Sat Dec 11 14:30:50.966353 2021] [core:warn] [pid 3696:tid 668] AH00098: pid file C:/webserver/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Dec 11 14:30:51.006890 2021] [ssl:warn] [pid 3696:tid 668] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sat Dec 11 14:30:51.006890 2021] [mpm_winnt:notice] [pid 3696:tid 668] AH00455: Apache/2.4.51 (Win64) mod_fcgid/2.3.10-dev OpenSSL/1.1.1l configured -- resuming normal operations
+[Sat Dec 11 14:30:51.006890 2021] [mpm_winnt:notice] [pid 3696:tid 668] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Sat Dec 11 14:30:51.006890 2021] [core:notice] [pid 3696:tid 668] AH00094: Command line: 'C:\\webserver\\Apache24\\bin\\httpd.exe -d C:/webserver/Apache24'
+[Sat Dec 11 14:30:51.014952 2021] [mpm_winnt:notice] [pid 3696:tid 668] AH00418: Parent: Created child process 5348
+[Sat Dec 11 14:30:52.454839 2021] [ssl:warn] [pid 5348:tid 540] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sat Dec 11 14:30:52.514764 2021] [mpm_winnt:notice] [pid 5348:tid 540] AH00354: Child: Starting 64 worker threads.
+[Sun Dec 12 01:56:27.926902 2021] [core:warn] [pid 3684:tid 576] AH00098: pid file C:/webserver/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Dec 12 01:56:27.958168 2021] [ssl:warn] [pid 3684:tid 576] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sun Dec 12 01:56:27.958168 2021] [mpm_winnt:notice] [pid 3684:tid 576] AH00455: Apache/2.4.51 (Win64) mod_fcgid/2.3.10-dev OpenSSL/1.1.1l configured -- resuming normal operations
+[Sun Dec 12 01:56:27.958168 2021] [mpm_winnt:notice] [pid 3684:tid 576] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Sun Dec 12 01:56:27.958168 2021] [core:notice] [pid 3684:tid 576] AH00094: Command line: 'C:\\webserver\\Apache24\\bin\\httpd.exe -d C:/webserver/Apache24'
+[Sun Dec 12 01:56:27.958168 2021] [mpm_winnt:notice] [pid 3684:tid 576] AH00418: Parent: Created child process 5316
+[Sun Dec 12 01:56:29.307416 2021] [ssl:warn] [pid 5316:tid 544] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sun Dec 12 01:56:29.369325 2021] [mpm_winnt:notice] [pid 5316:tid 544] AH00354: Child: Starting 64 worker threads.
+[Mon Dec 13 07:12:27.932489 2021] [core:warn] [pid 3696:tid 572] AH00098: pid file C:/webserver/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Dec 13 07:12:27.952814 2021] [ssl:warn] [pid 3696:tid 572] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Mon Dec 13 07:12:27.952814 2021] [mpm_winnt:notice] [pid 3696:tid 572] AH00455: Apache/2.4.51 (Win64) mod_fcgid/2.3.10-dev OpenSSL/1.1.1l configured -- resuming normal operations
+[Mon Dec 13 07:12:27.952814 2021] [mpm_winnt:notice] [pid 3696:tid 572] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Mon Dec 13 07:12:27.952814 2021] [core:notice] [pid 3696:tid 572] AH00094: Command line: 'C:\\webserver\\Apache24\\bin\\httpd.exe -d C:/webserver/Apache24'
+[Mon Dec 13 07:12:27.952814 2021] [mpm_winnt:notice] [pid 3696:tid 572] AH00418: Parent: Created child process 5448
+[Mon Dec 13 07:12:29.791214 2021] [ssl:warn] [pid 5448:tid 512] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Mon Dec 13 07:12:29.791214 2021] [mpm_winnt:notice] [pid 5448:tid 512] AH00354: Child: Starting 64 worker threads.
+[Tue Dec 14 06:05:19.631148 2021] [core:warn] [pid 3576:tid 524] AH00098: pid file C:/webserver/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Dec 14 06:05:19.915731 2021] [ssl:warn] [pid 3576:tid 524] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Tue Dec 14 06:05:19.915731 2021] [mpm_winnt:notice] [pid 3576:tid 524] AH00455: Apache/2.4.51 (Win64) mod_fcgid/2.3.10-dev OpenSSL/1.1.1l configured -- resuming normal operations
+[Tue Dec 14 06:05:19.915731 2021] [mpm_winnt:notice] [pid 3576:tid 524] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Tue Dec 14 06:05:19.915731 2021] [core:notice] [pid 3576:tid 524] AH00094: Command line: 'C:\\webserver\\Apache24\\bin\\httpd.exe -d C:/webserver/Apache24'
+[Tue Dec 14 06:05:19.925829 2021] [mpm_winnt:notice] [pid 3576:tid 524] AH00418: Parent: Created child process 3860
+[Tue Dec 14 06:05:21.701078 2021] [ssl:warn] [pid 3860:tid 676] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Tue Dec 14 06:05:21.701078 2021] [mpm_winnt:notice] [pid 3860:tid 676] AH00354: Child: Starting 64 worker threads.
+[Tue Dec 14 23:37:01.151367 2021] [core:warn] [pid 3744:tid 688] AH00098: pid file C:/webserver/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Dec 14 23:37:01.166906 2021] [ssl:warn] [pid 3744:tid 688] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Tue Dec 14 23:37:01.166906 2021] [mpm_winnt:notice] [pid 3744:tid 688] AH00455: Apache/2.4.51 (Win64) mod_fcgid/2.3.10-dev OpenSSL/1.1.1l configured -- resuming normal operations
+[Tue Dec 14 23:37:03.876196 2021] [mpm_winnt:notice] [pid 3744:tid 688] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Tue Dec 14 23:37:03.876196 2021] [core:notice] [pid 3744:tid 688] AH00094: Command line: 'C:\\webserver\\Apache24\\bin\\httpd.exe -d C:/webserver/Apache24'
+[Tue Dec 14 23:37:03.891226 2021] [mpm_winnt:notice] [pid 3744:tid 688] AH00418: Parent: Created child process 5764
+[Tue Dec 14 23:37:04.918197 2021] [ssl:warn] [pid 5764:tid 540] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Tue Dec 14 23:37:04.918197 2021] [mpm_winnt:notice] [pid 5764:tid 540] AH00354: Child: Starting 64 worker threads.
+[Wed Dec 15 13:33:06.687920 2021] [core:warn] [pid 3576:tid 428] AH00098: pid file C:/webserver/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Dec 15 13:33:06.750447 2021] [ssl:warn] [pid 3576:tid 428] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Dec 15 13:33:06.750447 2021] [mpm_winnt:notice] [pid 3576:tid 428] AH00455: Apache/2.4.51 (Win64) mod_fcgid/2.3.10-dev OpenSSL/1.1.1l configured -- resuming normal operations
+[Wed Dec 15 13:33:06.750447 2021] [mpm_winnt:notice] [pid 3576:tid 428] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Wed Dec 15 13:33:06.750447 2021] [core:notice] [pid 3576:tid 428] AH00094: Command line: 'C:\\webserver\\Apache24\\bin\\httpd.exe -d C:/webserver/Apache24'
+[Wed Dec 15 13:33:06.750447 2021] [mpm_winnt:notice] [pid 3576:tid 428] AH00418: Parent: Created child process 4076
+[Wed Dec 15 13:33:09.324989 2021] [ssl:warn] [pid 4076:tid 552] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Dec 15 13:33:09.379943 2021] [mpm_winnt:notice] [pid 4076:tid 552] AH00354: Child: Starting 64 worker threads.
+[Thu Dec 16 06:26:36.442448 2021] [core:warn] [pid 3356:tid 464] AH00098: pid file C:/webserver/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Dec 16 06:26:36.482952 2021] [ssl:warn] [pid 3356:tid 464] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Dec 16 06:26:36.482952 2021] [mpm_winnt:notice] [pid 3356:tid 464] AH00455: Apache/2.4.51 (Win64) mod_fcgid/2.3.10-dev OpenSSL/1.1.1l configured -- resuming normal operations
+[Thu Dec 16 06:26:36.482952 2021] [mpm_winnt:notice] [pid 3356:tid 464] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Thu Dec 16 06:26:36.482952 2021] [core:notice] [pid 3356:tid 464] AH00094: Command line: 'C:\\webserver\\Apache24\\bin\\httpd.exe -d C:/webserver/Apache24'
+[Thu Dec 16 06:26:36.482952 2021] [mpm_winnt:notice] [pid 3356:tid 464] AH00418: Parent: Created child process 5020
+[Thu Dec 16 06:26:37.961015 2021] [ssl:warn] [pid 5020:tid 544] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Dec 16 06:26:37.961015 2021] [mpm_winnt:notice] [pid 5020:tid 544] AH00354: Child: Starting 64 worker threads.
+[Thu Dec 16 06:26:48.976953 2021] [mpm_winnt:notice] [pid 3356:tid 464] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Dec 16 06:26:51.023834 2021] [mpm_winnt:notice] [pid 5020:tid 544] AH00364: Child: All worker threads have exited.
+[Thu Dec 16 06:26:51.414446 2021] [mpm_winnt:notice] [pid 3356:tid 464] AH00430: Parent: Child process 5020 exited successfully.
+[Thu Dec 16 06:28:22.052898 2021] [ssl:warn] [pid 3608:tid 620] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Dec 16 06:28:22.319114 2021] [mpm_winnt:notice] [pid 3608:tid 620] AH00455: Apache/2.4.51 (Win64) mod_fcgid/2.3.10-dev OpenSSL/1.1.1l configured -- resuming normal operations
+[Thu Dec 16 06:28:22.319114 2021] [mpm_winnt:notice] [pid 3608:tid 620] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Thu Dec 16 06:28:22.319114 2021] [core:notice] [pid 3608:tid 620] AH00094: Command line: 'C:\\webserver\\Apache24\\bin\\httpd.exe -d C:/webserver/Apache24'
+[Thu Dec 16 06:28:22.319114 2021] [mpm_winnt:notice] [pid 3608:tid 620] AH00418: Parent: Created child process 4480
+[Thu Dec 16 06:28:23.591049 2021] [ssl:warn] [pid 4480:tid 528] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Dec 16 06:28:23.591049 2021] [mpm_winnt:notice] [pid 4480:tid 528] AH00354: Child: Starting 64 worker threads.
+[Fri Dec 17 13:11:19.457938 2021] [core:warn] [pid 3716:tid 584] AH00098: pid file C:/webserver/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Dec 17 13:11:19.574381 2021] [ssl:warn] [pid 3716:tid 584] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Dec 17 13:11:19.574381 2021] [mpm_winnt:notice] [pid 3716:tid 584] AH00455: Apache/2.4.51 (Win64) mod_fcgid/2.3.10-dev OpenSSL/1.1.1l configured -- resuming normal operations
+[Fri Dec 17 13:11:19.574381 2021] [mpm_winnt:notice] [pid 3716:tid 584] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Fri Dec 17 13:11:19.574381 2021] [core:notice] [pid 3716:tid 584] AH00094: Command line: 'C:\\webserver\\Apache24\\bin\\httpd.exe -d C:/webserver/Apache24'
+[Fri Dec 17 13:11:19.590011 2021] [mpm_winnt:notice] [pid 3716:tid 584] AH00418: Parent: Created child process 4984
+[Fri Dec 17 13:11:32.455536 2021] [ssl:warn] [pid 4984:tid 520] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Dec 17 13:11:32.471160 2021] [mpm_winnt:notice] [pid 4984:tid 520] AH00354: Child: Starting 64 worker threads.
+[Fri Dec 17 14:00:05.396065 2021] [core:warn] [pid 3656:tid 152] AH00098: pid file C:/webserver/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Dec 17 14:00:05.815045 2021] [ssl:warn] [pid 3656:tid 152] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Dec 17 14:00:05.815045 2021] [mpm_winnt:notice] [pid 3656:tid 152] AH00455: Apache/2.4.51 (Win64) mod_fcgid/2.3.10-dev OpenSSL/1.1.1l configured -- resuming normal operations
+[Fri Dec 17 14:00:05.815045 2021] [mpm_winnt:notice] [pid 3656:tid 152] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Fri Dec 17 14:00:05.815045 2021] [core:notice] [pid 3656:tid 152] AH00094: Command line: 'C:\\webserver\\Apache24\\bin\\httpd.exe -d C:/webserver/Apache24'
+[Fri Dec 17 14:00:05.815045 2021] [mpm_winnt:notice] [pid 3656:tid 152] AH00418: Parent: Created child process 3244
+[Fri Dec 17 14:00:06.947112 2021] [ssl:warn] [pid 3244:tid 516] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Dec 17 14:00:06.962737 2021] [mpm_winnt:notice] [pid 3244:tid 516] AH00354: Child: Starting 64 worker threads.
+[Fri Dec 17 19:16:45.656140 2021] [core:warn] [pid 3580:tid 564] AH00098: pid file C:/webserver/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Dec 17 19:16:45.765272 2021] [ssl:warn] [pid 3580:tid 564] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Dec 17 19:16:45.765272 2021] [mpm_winnt:notice] [pid 3580:tid 564] AH00455: Apache/2.4.51 (Win64) mod_fcgid/2.3.10-dev OpenSSL/1.1.1l configured -- resuming normal operations
+[Fri Dec 17 19:16:45.765272 2021] [mpm_winnt:notice] [pid 3580:tid 564] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Fri Dec 17 19:16:45.765272 2021] [core:notice] [pid 3580:tid 564] AH00094: Command line: 'C:\\webserver\\Apache24\\bin\\httpd.exe -d C:/webserver/Apache24'
+[Fri Dec 17 19:16:45.765272 2021] [mpm_winnt:notice] [pid 3580:tid 564] AH00418: Parent: Created child process 5044
+[Fri Dec 17 19:16:48.134422 2021] [ssl:warn] [pid 5044:tid 404] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Dec 17 19:16:48.134422 2021] [mpm_winnt:notice] [pid 5044:tid 404] AH00354: Child: Starting 64 worker threads.
+[Sat Dec 18 21:00:00.470308 2021] [core:warn] [pid 3592:tid 640] AH00098: pid file C:/webserver/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Dec 18 21:00:00.520834 2021] [ssl:warn] [pid 3592:tid 640] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sat Dec 18 21:00:00.520834 2021] [mpm_winnt:notice] [pid 3592:tid 640] AH00455: Apache/2.4.51 (Win64) mod_fcgid/2.3.10-dev OpenSSL/1.1.1l configured -- resuming normal operations
+[Sat Dec 18 21:00:00.520834 2021] [mpm_winnt:notice] [pid 3592:tid 640] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Sat Dec 18 21:00:00.520834 2021] [core:notice] [pid 3592:tid 640] AH00094: Command line: 'C:\\webserver\\Apache24\\bin\\httpd.exe -d C:/webserver/Apache24'
+[Sat Dec 18 21:00:00.520834 2021] [mpm_winnt:notice] [pid 3592:tid 640] AH00418: Parent: Created child process 5128
+[Sat Dec 18 21:00:02.587602 2021] [ssl:warn] [pid 5128:tid 568] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sat Dec 18 21:00:02.595655 2021] [mpm_winnt:notice] [pid 5128:tid 568] AH00354: Child: Starting 64 worker threads.
+[Sat Dec 18 22:17:16.069493 2021] [mpm_winnt:notice] [pid 3592:tid 640] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Dec 18 22:17:18.241451 2021] [mpm_winnt:notice] [pid 5128:tid 568] AH00364: Child: All worker threads have exited.
+[Sat Dec 18 22:17:20.741437 2021] [mpm_winnt:notice] [pid 3592:tid 640] AH00430: Parent: Child process 5128 exited successfully.
+[Sat Dec 18 22:18:27.383514 2021] [ssl:warn] [pid 3480:tid 624] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sat Dec 18 22:18:27.404176 2021] [mpm_winnt:notice] [pid 3480:tid 624] AH00455: Apache/2.4.51 (Win64) mod_fcgid/2.3.10-dev OpenSSL/1.1.1l configured -- resuming normal operations
+[Sat Dec 18 22:18:27.404176 2021] [mpm_winnt:notice] [pid 3480:tid 624] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Sat Dec 18 22:18:27.404176 2021] [core:notice] [pid 3480:tid 624] AH00094: Command line: 'C:\\webserver\\Apache24\\bin\\httpd.exe -d C:/webserver/Apache24'
+[Sat Dec 18 22:18:27.404176 2021] [mpm_winnt:notice] [pid 3480:tid 624] AH00418: Parent: Created child process 4984
+[Sat Dec 18 22:18:28.410660 2021] [ssl:warn] [pid 4984:tid 516] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sat Dec 18 22:18:28.410660 2021] [mpm_winnt:notice] [pid 4984:tid 516] AH00354: Child: Starting 64 worker threads.
+[Sun Dec 19 15:00:05.879561 2021] [core:warn] [pid 3280:tid 496] AH00098: pid file C:/webserver/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Dec 19 15:00:06.235929 2021] [ssl:warn] [pid 3280:tid 496] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sun Dec 19 15:00:06.235929 2021] [mpm_winnt:notice] [pid 3280:tid 496] AH00455: Apache/2.4.51 (Win64) mod_fcgid/2.3.10-dev OpenSSL/1.1.1l configured -- resuming normal operations
+[Sun Dec 19 15:00:06.235929 2021] [mpm_winnt:notice] [pid 3280:tid 496] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Sun Dec 19 15:00:06.235929 2021] [core:notice] [pid 3280:tid 496] AH00094: Command line: 'C:\\webserver\\Apache24\\bin\\httpd.exe -d C:/webserver/Apache24'
+[Sun Dec 19 15:00:06.244014 2021] [mpm_winnt:notice] [pid 3280:tid 496] AH00418: Parent: Created child process 4852
+[Sun Dec 19 15:00:07.961334 2021] [ssl:warn] [pid 4852:tid 536] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sun Dec 19 15:00:07.965849 2021] [mpm_winnt:notice] [pid 4852:tid 536] AH00354: Child: Starting 64 worker threads.
+[Mon Dec 20 09:15:13.942191 2021] [core:warn] [pid 3564:tid 464] AH00098: pid file C:/webserver/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Dec 20 09:15:13.957806 2021] [ssl:warn] [pid 3564:tid 464] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Mon Dec 20 09:15:13.957806 2021] [mpm_winnt:notice] [pid 3564:tid 464] AH00455: Apache/2.4.51 (Win64) mod_fcgid/2.3.10-dev OpenSSL/1.1.1l configured -- resuming normal operations
+[Mon Dec 20 09:15:13.957806 2021] [mpm_winnt:notice] [pid 3564:tid 464] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Mon Dec 20 09:15:13.957806 2021] [core:notice] [pid 3564:tid 464] AH00094: Command line: 'C:\\webserver\\Apache24\\bin\\httpd.exe -d C:/webserver/Apache24'
+[Mon Dec 20 09:15:13.957806 2021] [mpm_winnt:notice] [pid 3564:tid 464] AH00418: Parent: Created child process 5872
+[Mon Dec 20 09:15:14.815524 2021] [ssl:warn] [pid 5872:tid 480] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Mon Dec 20 09:15:14.815524 2021] [mpm_winnt:notice] [pid 5872:tid 480] AH00354: Child: Starting 64 worker threads.
+[Tue Dec 21 08:17:43.781080 2021] [core:warn] [pid 3544:tid 644] AH00098: pid file C:/webserver/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Dec 21 08:17:44.044168 2021] [ssl:warn] [pid 3544:tid 644] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Tue Dec 21 08:17:44.044168 2021] [mpm_winnt:notice] [pid 3544:tid 644] AH00455: Apache/2.4.51 (Win64) mod_fcgid/2.3.10-dev OpenSSL/1.1.1l configured -- resuming normal operations
+[Tue Dec 21 08:17:44.044168 2021] [mpm_winnt:notice] [pid 3544:tid 644] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Tue Dec 21 08:17:44.044168 2021] [core:notice] [pid 3544:tid 644] AH00094: Command line: 'C:\\webserver\\Apache24\\bin\\httpd.exe -d C:/webserver/Apache24'
+[Tue Dec 21 08:17:44.056291 2021] [mpm_winnt:notice] [pid 3544:tid 644] AH00418: Parent: Created child process 4964
+[Tue Dec 21 08:17:45.117464 2021] [ssl:warn] [pid 4964:tid 128] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Tue Dec 21 08:17:45.134130 2021] [mpm_winnt:notice] [pid 4964:tid 128] AH00354: Child: Starting 64 worker threads.
+[Wed Dec 22 19:02:50.762104 2021] [core:warn] [pid 3528:tid 492] AH00098: pid file C:/webserver/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Dec 22 19:02:50.782335 2021] [ssl:warn] [pid 3528:tid 492] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Dec 22 19:02:50.782335 2021] [mpm_winnt:notice] [pid 3528:tid 492] AH00455: Apache/2.4.51 (Win64) mod_fcgid/2.3.10-dev OpenSSL/1.1.1l configured -- resuming normal operations
+[Wed Dec 22 19:02:50.782335 2021] [mpm_winnt:notice] [pid 3528:tid 492] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Wed Dec 22 19:02:50.782335 2021] [core:notice] [pid 3528:tid 492] AH00094: Command line: 'C:\\webserver\\Apache24\\bin\\httpd.exe -d C:/webserver/Apache24'
+[Wed Dec 22 19:02:50.782335 2021] [mpm_winnt:notice] [pid 3528:tid 492] AH00418: Parent: Created child process 5176
+[Wed Dec 22 19:02:52.756149 2021] [ssl:warn] [pid 5176:tid 576] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Dec 22 19:02:52.771730 2021] [mpm_winnt:notice] [pid 5176:tid 576] AH00354: Child: Starting 64 worker threads.
+[Tue Dec 28 20:40:39.043500 2021] [core:warn] [pid 3544:tid 596] AH00098: pid file C:/webserver/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Dec 28 20:40:39.061691 2021] [ssl:warn] [pid 3544:tid 596] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Tue Dec 28 20:40:39.061691 2021] [mpm_winnt:notice] [pid 3544:tid 596] AH00455: Apache/2.4.51 (Win64) mod_fcgid/2.3.10-dev OpenSSL/1.1.1l configured -- resuming normal operations
+[Tue Dec 28 20:40:39.061691 2021] [mpm_winnt:notice] [pid 3544:tid 596] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Tue Dec 28 20:40:39.063705 2021] [core:notice] [pid 3544:tid 596] AH00094: Command line: 'C:\\webserver\\Apache24\\bin\\httpd.exe -d C:/webserver/Apache24'
+[Tue Dec 28 20:40:39.063741 2021] [mpm_winnt:notice] [pid 3544:tid 596] AH00418: Parent: Created child process 5492
+[Tue Dec 28 20:40:41.423877 2021] [ssl:warn] [pid 5492:tid 580] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Tue Dec 28 20:40:41.423877 2021] [mpm_winnt:notice] [pid 5492:tid 580] AH00354: Child: Starting 64 worker threads.
+[Thu Dec 30 08:10:04.792368 2021] [core:warn] [pid 3416:tid 572] AH00098: pid file C:/webserver/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Dec 30 08:10:04.792368 2021] [ssl:warn] [pid 3416:tid 572] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Dec 30 08:10:04.792368 2021] [mpm_winnt:notice] [pid 3416:tid 572] AH00455: Apache/2.4.51 (Win64) mod_fcgid/2.3.10-dev OpenSSL/1.1.1l configured -- resuming normal operations
+[Thu Dec 30 08:10:04.792368 2021] [mpm_winnt:notice] [pid 3416:tid 572] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Thu Dec 30 08:10:04.792368 2021] [core:notice] [pid 3416:tid 572] AH00094: Command line: 'C:\\webserver\\Apache24\\bin\\httpd.exe -d C:/webserver/Apache24'
+[Thu Dec 30 08:10:04.800432 2021] [mpm_winnt:notice] [pid 3416:tid 572] AH00418: Parent: Created child process 4100
+[Thu Dec 30 08:10:06.442339 2021] [ssl:warn] [pid 4100:tid 576] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Dec 30 08:10:06.485198 2021] [mpm_winnt:notice] [pid 4100:tid 576] AH00354: Child: Starting 64 worker threads.
+[Thu Dec 30 20:49:26.673262 2021] [core:warn] [pid 3524:tid 560] AH00098: pid file C:/webserver/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Dec 30 20:49:26.691535 2021] [ssl:warn] [pid 3524:tid 560] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Dec 30 20:49:26.701621 2021] [mpm_winnt:notice] [pid 3524:tid 560] AH00455: Apache/2.4.51 (Win64) mod_fcgid/2.3.10-dev OpenSSL/1.1.1l configured -- resuming normal operations
+[Thu Dec 30 20:49:26.701621 2021] [mpm_winnt:notice] [pid 3524:tid 560] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Thu Dec 30 20:49:26.701621 2021] [core:notice] [pid 3524:tid 560] AH00094: Command line: 'C:\\webserver\\Apache24\\bin\\httpd.exe -d C:/webserver/Apache24'
+[Thu Dec 30 20:49:26.703669 2021] [mpm_winnt:notice] [pid 3524:tid 560] AH00418: Parent: Created child process 4180
+[Thu Dec 30 20:49:29.244495 2021] [ssl:warn] [pid 4180:tid 584] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Dec 30 20:49:29.244495 2021] [mpm_winnt:notice] [pid 4180:tid 584] AH00354: Child: Starting 64 worker threads.
+[Fri Dec 31 10:24:52.366311 2021] [core:warn] [pid 3404:tid 600] AH00098: pid file C:/webserver/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Dec 31 10:24:52.609060 2021] [ssl:warn] [pid 3404:tid 600] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Dec 31 10:24:52.609060 2021] [mpm_winnt:notice] [pid 3404:tid 600] AH00455: Apache/2.4.51 (Win64) mod_fcgid/2.3.10-dev OpenSSL/1.1.1l configured -- resuming normal operations
+[Fri Dec 31 10:24:52.609060 2021] [mpm_winnt:notice] [pid 3404:tid 600] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Fri Dec 31 10:24:52.609060 2021] [core:notice] [pid 3404:tid 600] AH00094: Command line: 'C:\\webserver\\Apache24\\bin\\httpd.exe -d C:/webserver/Apache24'
+[Fri Dec 31 10:24:52.617136 2021] [mpm_winnt:notice] [pid 3404:tid 600] AH00418: Parent: Created child process 5216
+[Fri Dec 31 10:24:54.069591 2021] [ssl:warn] [pid 5216:tid 584] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Dec 31 10:24:54.071637 2021] [mpm_winnt:notice] [pid 5216:tid 584] AH00354: Child: Starting 64 worker threads.
+[Sat Jan 01 20:03:23.610066 2022] [core:warn] [pid 3504:tid 556] AH00098: pid file C:/webserver/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Jan 01 20:03:23.610066 2022] [ssl:warn] [pid 3504:tid 556] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sat Jan 01 20:03:23.610066 2022] [mpm_winnt:notice] [pid 3504:tid 556] AH00455: Apache/2.4.51 (Win64) mod_fcgid/2.3.10-dev OpenSSL/1.1.1l configured -- resuming normal operations
+[Sat Jan 01 20:03:23.610066 2022] [mpm_winnt:notice] [pid 3504:tid 556] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Sat Jan 01 20:03:23.610066 2022] [core:notice] [pid 3504:tid 556] AH00094: Command line: 'C:\\webserver\\Apache24\\bin\\httpd.exe -d C:/webserver/Apache24'
+[Sat Jan 01 20:03:23.610066 2022] [mpm_winnt:notice] [pid 3504:tid 556] AH00418: Parent: Created child process 6332
+[Sat Jan 01 20:03:24.406874 2022] [ssl:warn] [pid 6332:tid 524] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sat Jan 01 20:03:24.406874 2022] [mpm_winnt:notice] [pid 6332:tid 524] AH00354: Child: Starting 64 worker threads.
+[Sun Jan 02 09:52:00.780561 2022] [core:warn] [pid 3532:tid 624] AH00098: pid file C:/webserver/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Jan 02 09:52:00.901970 2022] [ssl:warn] [pid 3532:tid 624] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sun Jan 02 09:52:00.901970 2022] [mpm_winnt:notice] [pid 3532:tid 624] AH00455: Apache/2.4.51 (Win64) mod_fcgid/2.3.10-dev OpenSSL/1.1.1l configured -- resuming normal operations
+[Sun Jan 02 09:52:00.901970 2022] [mpm_winnt:notice] [pid 3532:tid 624] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Sun Jan 02 09:52:00.901970 2022] [core:notice] [pid 3532:tid 624] AH00094: Command line: 'C:\\webserver\\Apache24\\bin\\httpd.exe -d C:/webserver/Apache24'
+[Sun Jan 02 09:52:00.904013 2022] [mpm_winnt:notice] [pid 3532:tid 624] AH00418: Parent: Created child process 5152
+[Sun Jan 02 09:52:02.460024 2022] [ssl:warn] [pid 5152:tid 520] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sun Jan 02 09:52:02.520695 2022] [mpm_winnt:notice] [pid 5152:tid 520] AH00354: Child: Starting 64 worker threads.
+[Mon Jan 03 10:56:08.042933 2022] [core:warn] [pid 3540:tid 704] AH00098: pid file C:/webserver/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Jan 03 10:56:08.105416 2022] [ssl:warn] [pid 3540:tid 704] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Mon Jan 03 10:56:08.105416 2022] [mpm_winnt:notice] [pid 3540:tid 704] AH00455: Apache/2.4.51 (Win64) mod_fcgid/2.3.10-dev OpenSSL/1.1.1l configured -- resuming normal operations
+[Mon Jan 03 10:56:08.105416 2022] [mpm_winnt:notice] [pid 3540:tid 704] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Mon Jan 03 10:56:08.105416 2022] [core:notice] [pid 3540:tid 704] AH00094: Command line: 'C:\\webserver\\Apache24\\bin\\httpd.exe -d C:/webserver/Apache24'
+[Mon Jan 03 10:56:08.105416 2022] [mpm_winnt:notice] [pid 3540:tid 704] AH00418: Parent: Created child process 3580
+[Mon Jan 03 10:56:10.274212 2022] [ssl:warn] [pid 3580:tid 596] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Mon Jan 03 10:56:10.274212 2022] [mpm_winnt:notice] [pid 3580:tid 596] AH00354: Child: Starting 64 worker threads.
+[Tue Jan 04 11:17:22.411803 2022] [core:warn] [pid 3572:tid 668] AH00098: pid file C:/webserver/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Jan 04 11:17:22.650347 2022] [ssl:warn] [pid 3572:tid 668] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Tue Jan 04 11:17:22.650347 2022] [mpm_winnt:notice] [pid 3572:tid 668] AH00455: Apache/2.4.51 (Win64) mod_fcgid/2.3.10-dev OpenSSL/1.1.1l configured -- resuming normal operations
+[Tue Jan 04 11:17:22.650347 2022] [mpm_winnt:notice] [pid 3572:tid 668] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Tue Jan 04 11:17:22.650347 2022] [core:notice] [pid 3572:tid 668] AH00094: Command line: 'C:\\webserver\\Apache24\\bin\\httpd.exe -d C:/webserver/Apache24'
+[Tue Jan 04 11:17:22.650347 2022] [mpm_winnt:notice] [pid 3572:tid 668] AH00418: Parent: Created child process 4824
+[Tue Jan 04 11:17:24.296152 2022] [ssl:warn] [pid 4824:tid 524] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Tue Jan 04 11:17:24.296152 2022] [mpm_winnt:notice] [pid 4824:tid 524] AH00354: Child: Starting 64 worker threads.
+[Wed Jan 05 19:03:56.603002 2022] [core:warn] [pid 3456:tid 568] AH00098: pid file C:/webserver/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Jan 05 19:03:57.135065 2022] [ssl:warn] [pid 3456:tid 568] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Jan 05 19:03:57.135065 2022] [mpm_winnt:notice] [pid 3456:tid 568] AH00455: Apache/2.4.51 (Win64) mod_fcgid/2.3.10-dev OpenSSL/1.1.1l configured -- resuming normal operations
+[Wed Jan 05 19:03:57.135065 2022] [mpm_winnt:notice] [pid 3456:tid 568] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Wed Jan 05 19:03:57.135065 2022] [core:notice] [pid 3456:tid 568] AH00094: Command line: 'C:\\webserver\\Apache24\\bin\\httpd.exe -d C:/webserver/Apache24'
+[Wed Jan 05 19:03:57.135065 2022] [mpm_winnt:notice] [pid 3456:tid 568] AH00418: Parent: Created child process 4952
+[Wed Jan 05 19:03:59.197216 2022] [ssl:warn] [pid 4952:tid 504] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Jan 05 19:03:59.343606 2022] [mpm_winnt:notice] [pid 4952:tid 504] AH00354: Child: Starting 64 worker threads.

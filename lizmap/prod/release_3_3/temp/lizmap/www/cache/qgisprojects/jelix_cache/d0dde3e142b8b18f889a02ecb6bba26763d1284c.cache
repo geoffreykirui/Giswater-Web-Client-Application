@@ -1,0 +1,245 @@
+a:5:{s:5:"mtime";i:1641377331;s:5:"ctime";i:1641377330;s:4:"code";i:200;s:4:"mime";s:23:"text/xml; charset=utf-8";s:4:"data";s:7875:"<WFS_Capabilities xmlns:ogc="http://www.opengis.net/ogc" version="1.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gml="http://www.opengis.net/gml" updateSequence="0" xmlns="http://www.opengis.net/wfs" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ows="http://www.opengis.net/ows" xsi:schemaLocation="http://www.opengis.net/wfs http://schemas.opengis.net/wfs/1.0.0/WFS-capabilities.xsd">
+ <Service>
+  <Name>WFS</Name>
+  <Title>NAWASSCO</Title>
+  <Abstract><![CDATA[This is a web client application for NAWASSCO GIS development proposal. additional toola are more enhanced through QGIS software like numerous functionalities and six users with integration capabilities with CRM, simulation software, master plan, Qfield mobile application and this web client. ]]></Abstract>
+  <OnlineResource>http://icongeospatial.odoo.com/</OnlineResource>
+  <Fees>conditions unknown</Fees>
+  <AccessConstraints>None</AccessConstraints>
+ </Service>
+ <Capability>
+  <Request>
+   <GetCapabilities>
+    <DCPType>
+     <HTTP>
+      <Get onlineResource="http://localhost/qgis/qgis_mapserv.fcgi.exe?map=C%3A%5Cwebserver%5Cdata%5Cprod%5CNAWASSCO%2Fnawassco_ws_basic.qgs&amp;Lizmap_User=admin&amp;Lizmap_User_Groups=__priv_admin%2C admins&amp;Lizmap_Override_Filter=1"/>
+     </HTTP>
+    </DCPType>
+    <DCPType>
+     <HTTP>
+      <Post onlineResource="http://localhost/qgis/qgis_mapserv.fcgi.exe?map=C%3A%5Cwebserver%5Cdata%5Cprod%5CNAWASSCO%2Fnawassco_ws_basic.qgs&amp;Lizmap_User=admin&amp;Lizmap_User_Groups=__priv_admin%2C admins&amp;Lizmap_Override_Filter=1"/>
+     </HTTP>
+    </DCPType>
+   </GetCapabilities>
+   <DescribeFeatureType>
+    <SchemaDescriptionLanguage>
+     <XMLSCHEMA/>
+    </SchemaDescriptionLanguage>
+    <DCPType>
+     <HTTP>
+      <Get onlineResource="http://localhost/qgis/qgis_mapserv.fcgi.exe?map=C%3A%5Cwebserver%5Cdata%5Cprod%5CNAWASSCO%2Fnawassco_ws_basic.qgs&amp;Lizmap_User=admin&amp;Lizmap_User_Groups=__priv_admin%2C admins&amp;Lizmap_Override_Filter=1"/>
+     </HTTP>
+    </DCPType>
+    <DCPType>
+     <HTTP>
+      <Post onlineResource="http://localhost/qgis/qgis_mapserv.fcgi.exe?map=C%3A%5Cwebserver%5Cdata%5Cprod%5CNAWASSCO%2Fnawassco_ws_basic.qgs&amp;Lizmap_User=admin&amp;Lizmap_User_Groups=__priv_admin%2C admins&amp;Lizmap_Override_Filter=1"/>
+     </HTTP>
+    </DCPType>
+   </DescribeFeatureType>
+   <GetFeature>
+    <ResultFormat>
+     <GML2/>
+     <GML3/>
+     <GeoJSON/>
+    </ResultFormat>
+    <DCPType>
+     <HTTP>
+      <Get onlineResource="http://localhost/qgis/qgis_mapserv.fcgi.exe?map=C%3A%5Cwebserver%5Cdata%5Cprod%5CNAWASSCO%2Fnawassco_ws_basic.qgs&amp;Lizmap_User=admin&amp;Lizmap_User_Groups=__priv_admin%2C admins&amp;Lizmap_Override_Filter=1"/>
+     </HTTP>
+    </DCPType>
+    <DCPType>
+     <HTTP>
+      <Post onlineResource="http://localhost/qgis/qgis_mapserv.fcgi.exe?map=C%3A%5Cwebserver%5Cdata%5Cprod%5CNAWASSCO%2Fnawassco_ws_basic.qgs&amp;Lizmap_User=admin&amp;Lizmap_User_Groups=__priv_admin%2C admins&amp;Lizmap_Override_Filter=1"/>
+     </HTTP>
+    </DCPType>
+   </GetFeature>
+   <Transaction>
+    <DCPType>
+     <HTTP>
+      <Post onlineResource="http://localhost/qgis/qgis_mapserv.fcgi.exe?map=C%3A%5Cwebserver%5Cdata%5Cprod%5CNAWASSCO%2Fnawassco_ws_basic.qgs&amp;Lizmap_User=admin&amp;Lizmap_User_Groups=__priv_admin%2C admins&amp;Lizmap_Override_Filter=1"/>
+     </HTTP>
+    </DCPType>
+   </Transaction>
+  </Request>
+ </Capability>
+ <FeatureTypeList>
+  <Operations>
+   <Query/>
+  </Operations>
+  <FeatureType>
+   <Name>Arc</Name>
+   <Title>Arc</Title>
+   <SRS>EPSG:3857</SRS>
+   <LatLongBoundingBox maxy="-inf" maxx="-inf" minx="inf" miny="inf"/>
+   <Operations>
+    <Query/>
+   </Operations>
+  </FeatureType>
+  <FeatureType>
+   <Name>Connec</Name>
+   <Title>Connec</Title>
+   <SRS>EPSG:3857</SRS>
+   <LatLongBoundingBox maxy="-inf" maxx="-inf" minx="inf" miny="inf"/>
+   <Operations>
+    <Query/>
+   </Operations>
+  </FeatureType>
+  <FeatureType>
+   <Name>Dimensioning</Name>
+   <Title>Dimensioning</Title>
+   <SRS>EPSG:3857</SRS>
+   <LatLongBoundingBox maxy="-inf" maxx="-inf" minx="inf" miny="inf"/>
+   <Operations>
+    <Query/>
+   </Operations>
+  </FeatureType>
+  <FeatureType>
+   <Name>Dma</Name>
+   <Title>Dma</Title>
+   <SRS>EPSG:3857</SRS>
+   <LatLongBoundingBox maxy="-inf" maxx="-inf" minx="inf" miny="inf"/>
+   <Operations>
+    <Query/>
+   </Operations>
+  </FeatureType>
+  <FeatureType>
+   <Name>Dqa</Name>
+   <Title>Dqa</Title>
+   <SRS>EPSG:3857</SRS>
+   <LatLongBoundingBox maxy="-inf" maxx="-inf" minx="inf" miny="inf"/>
+   <Operations>
+    <Query/>
+   </Operations>
+  </FeatureType>
+  <FeatureType>
+   <Name>Element</Name>
+   <Title>Element</Title>
+   <SRS>EPSG:3857</SRS>
+   <LatLongBoundingBox maxy="-inf" maxx="-inf" minx="inf" miny="inf"/>
+   <Operations>
+    <Query/>
+   </Operations>
+  </FeatureType>
+  <FeatureType>
+   <Name>Exploitation</Name>
+   <Title>Exploitation</Title>
+   <SRS>EPSG:3857</SRS>
+   <LatLongBoundingBox maxy="-28009.426" maxx="4025997.377" minx="4010150.774" miny="-36488.961"/>
+   <Operations>
+    <Query/>
+   </Operations>
+  </FeatureType>
+  <FeatureType>
+   <Name>v_edit_link</Name>
+   <Title>Link</Title>
+   <SRS>EPSG:3857</SRS>
+   <LatLongBoundingBox maxy="-inf" maxx="-inf" minx="inf" miny="inf"/>
+   <Operations>
+    <Query/>
+   </Operations>
+  </FeatureType>
+  <FeatureType>
+   <Name>Node</Name>
+   <Title>Node</Title>
+   <SRS>EPSG:3857</SRS>
+   <LatLongBoundingBox maxy="-inf" maxx="-inf" minx="inf" miny="inf"/>
+   <Operations>
+    <Query/>
+   </Operations>
+  </FeatureType>
+  <FeatureType>
+   <Name>Presszone</Name>
+   <Title>Presszone</Title>
+   <SRS>EPSG:3857</SRS>
+   <LatLongBoundingBox maxy="-inf" maxx="-inf" minx="inf" miny="inf"/>
+   <Operations>
+    <Query/>
+   </Operations>
+  </FeatureType>
+  <FeatureType>
+   <Name>Sample_point</Name>
+   <Title>Sample_point</Title>
+   <SRS>EPSG:3857</SRS>
+   <LatLongBoundingBox maxy="-inf" maxx="-inf" minx="inf" miny="inf"/>
+   <Operations>
+    <Query/>
+   </Operations>
+  </FeatureType>
+  <FeatureType>
+   <Name>Sector</Name>
+   <Title>Sector</Title>
+   <SRS>EPSG:3857</SRS>
+   <LatLongBoundingBox maxy="-inf" maxx="-inf" minx="inf" miny="inf"/>
+   <Operations>
+    <Query/>
+   </Operations>
+  </FeatureType>
+  <FeatureType>
+   <Name>Addresses</Name>
+   <Title>Addresses</Title>
+   <SRS>EPSG:3857</SRS>
+   <LatLongBoundingBox maxy="-inf" maxx="-inf" minx="inf" miny="inf"/>
+   <Operations>
+    <Query/>
+   </Operations>
+  </FeatureType>
+  <FeatureType>
+   <Name>Plot</Name>
+   <Title>Plot</Title>
+   <SRS>EPSG:3857</SRS>
+   <LatLongBoundingBox maxy="-inf" maxx="-inf" minx="inf" miny="inf"/>
+   <Operations>
+    <Query/>
+   </Operations>
+  </FeatureType>
+  <FeatureType>
+   <Name>Streetaxis</Name>
+   <Title>Streetaxis</Title>
+   <SRS>EPSG:3857</SRS>
+   <LatLongBoundingBox maxy="-inf" maxx="-inf" minx="inf" miny="inf"/>
+   <Operations>
+    <Query/>
+   </Operations>
+  </FeatureType>
+  <FeatureType>
+   <Name>Connec_polygon</Name>
+   <Title>Connec_polygon</Title>
+   <SRS>EPSG:3857</SRS>
+   <LatLongBoundingBox maxy="-inf" maxx="-inf" minx="inf" miny="inf"/>
+   <Operations>
+    <Query/>
+   </Operations>
+  </FeatureType>
+  <FeatureType>
+   <Name>Node_polygon</Name>
+   <Title>Node_polygon</Title>
+   <SRS>EPSG:3857</SRS>
+   <LatLongBoundingBox maxy="-inf" maxx="-inf" minx="inf" miny="inf"/>
+   <Operations>
+    <Query/>
+   </Operations>
+  </FeatureType>
+ </FeatureTypeList>
+ <ogc:Filter_Capabilities>
+  <ogc:Spatial_Capabilities>
+   <ogc:Spatial_Operators>
+    <ogc:BBOX/>
+    <ogc:Disjoint/>
+    <ogc:Intersect/>
+    <ogc:Touches/>
+    <ogc:Crosses/>
+    <ogc:Contains/>
+    <ogc:Overlaps/>
+    <ogc:Within/>
+   </ogc:Spatial_Operators>
+  </ogc:Spatial_Capabilities>
+  <ogc:Scalar_Capabilities>
+   <ogc:Comparison_Operators>
+    <ogc:Simple_Comparisons/>
+    <ogc:Between/>
+    <ogc:Like/>
+   </ogc:Comparison_Operators>
+  </ogc:Scalar_Capabilities>
+ </ogc:Filter_Capabilities>
+</WFS_Capabilities>
+";}

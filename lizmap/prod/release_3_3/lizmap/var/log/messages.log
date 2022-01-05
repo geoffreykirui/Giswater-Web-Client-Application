@@ -1,0 +1,5 @@
+2021-10-29 12:57:46	::1	default	SQL =  INSERT INTO "ws"."v_om_mincut" ("exec_the_geom", "exec_appropiate" ) VALUES (ST_GeomFromText('POINT(419203.5301681538 4576475.830213)', 25831), 'false' )  RETURNING "id";
+2021-10-29 12:58:25	::1	default	SQL =  INSERT INTO "ws"."v_om_mincut" ("exec_the_geom", "exec_appropiate" ) VALUES (ST_GeomFromText('POINT(419203.5301680198 4576475.830212907)', 25831), 'false' )  RETURNING "id";
+2021-10-29 12:59:24	::1	default	SQL =  INSERT INTO "ws"."v_om_mincut" ("streetaxis_id", "exec_the_geom", "exec_appropiate" ) VALUES ('Calle_de_Salvador', ST_GeomFromText('POINT(419203.5301678858 4576475.830212812)', 25831), 'false' )  RETURNING "id";
+2021-11-07 10:46:24	::1	default	SQL =  INSERT INTO "ud"."v_anl_flow_node" ("the_geom" ) VALUES (ST_GeomFromText('POINT(419018.59379087354 4576660.41714129)', 25831) )  RETURNING "id";
+2021-12-05 18:12:23	::1	default	SQL =  INSERT INTO "ud"."v_anl_flow_node" ("the_geom" ) VALUES (ST_GeomFromText('POINT(419086.90951358894 4576645.511878963)', 25831) )  RETURNING "id";
