@@ -1,7 +1,7 @@
 # Giswater Web Client Application
 
 Web client application using QGIS, QgisServer and LizMap.
-![Giswater Web Client](https://raw.githubusercontent.com/geoffreykirui/Giswater_Web_Client_Applications/main/Giswater%20Web%20Client%20Application.png)
+![Giswater Web Client](https://raw.githubusercontent.com/geoffreykirui/Giswater-Web-Client-Application/main/Giswater%20Web%20Client%20Application.png?token=AK4O76K6EVRIDRFURCYI6YDB2YZLG)
 
 Giswater has been used in the management of water cycle through QGIS software and Giswater plugin, but web client application is more benefits for portability of water and sewer systems projects in a web browser.
 QWC2 is one option of using the native of QGIS, but LizMap is another application working with QGIS and QgisServer.
