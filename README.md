@@ -26,15 +26,15 @@ After succesfully installing the requrements it is now time to add Giswater proj
 
 First create schema and the QGIS project as described in [Giswater documentation](https://github.com/Giswater/giswater_dbmodel/wiki/Setup-guide) for set up guide.
 
-Configure the giswater in QGIS project properties such that the project is correctly served. For [QGIS Server documentation](https://docs.qgis.org/3.16/en/docs/server_manual/index.html)
-For windows systems don't worry about installing xampp since you already installed the Apache above.
+Configure the Giswater in QGIS project properties such that the project is correctly served. Refer to [QGIS Server documentation](https://docs.qgis.org/3.16/en/docs/server_manual/index.html)
+For windows systems, don't worry about installing xampp since you already installed the Apache above.
 
 In QGIS install [LizMap plugin](https://plugins.qgis.org/plugins/lizmap/) in the usual way. 
 Open LizMap in QGIS and configure the LizMap project as desired, click ok to save the Giswater project and the configuration file, and copy the two files to the lizmap directory. Eg C:\webserver\data\prod\rep1\
 
 Open your browser open the lizmap production environment eg http://localhost//webgis//index.php
 Log in to lizmap application to access the administrator dashboard
-Go to the maps management and create a repository with id, label, and local folder path eg /webserver/data/prod/rep3/ and optionally check the required button accordingly.
+Go to the maps management and create a repository with id, label, and local folder path eg /webserver/data/prod/rep1/ and optionally check the required button accordingly.
 A new Giswater project repository is now available, click on view and all the parameters as set in QGIS are visible, click on Load the Map to view the web map.
 
 Giswater functionalities in QGIS are reflected in the web map immediately, there has been no better Giswater client than QGIS in the date. 
