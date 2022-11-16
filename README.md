@@ -39,47 +39,34 @@ The following steps assume that the user will keep the suggested installation/de
 3) Copy the "webserver" folder inside the C: drive
 
 4) Start the Apache web server by running **as administrator** (right click > run as administrator) the file 
-
 ```
 C:\webserver\Apache24\bin\httpd.exe
 ```
-
 5) As option Apache can be installed as Windows service by running (from the Windows console, launched as administrator) the following command:
-
 ```
 C:\webserver\Apache24\bin\install-server.bat
 ```
-
 After that Apache can be started/stopped from the Windows Services control panel or from the Windows console using the command (as administrator):
-
 ```
 C:\webserver\Apache24\bin\start-server.bat
 ```
-
 6) Open a browser and test if Apache works:
-
 ```
 http://localhost
 ```
-
 7) Test if PHP works:
-
 ```
 http://localhost/info.php
 ```
-
 8) Test if QGIS Server works:
 
 ```
 http://localhost/qgis/qgis_mapserv.fcgi.exe
 ```
-
 9) Test if Lizmap Web Client works:
-
 ```
 http://localhost/lizmap/lizmap/www/index.php
 ```
-
 10) On a completely clean Window 10 machine you can get an error message about missing some library. If is the case just download and install them from the MS web site: https://www.microsoft.com/en-us/download/details.aspx?id=52685
 
 
@@ -89,15 +76,15 @@ After succesfully installing the requrements it is now time to add Giswater proj
 First create schema and the QGIS project as described in [Giswater documentation](https://github.com/Giswater/giswater_dbmodel/wiki/Setup-guide) for set up guide.
 
 In QGIS install [LizMap plugin](https://plugins.qgis.org/plugins/lizmap/) in the usual way. 
-Open LizMap in QGIS and configure the LizMap project as desired, click ok to save the Giswater project and the configuration file, and copy the two files to the lizmap directory. Eg In webserver folder go to www\lizmap\lizmap\install\qgis
+Open LizMap in QGIS and configure the LizMap project as desired, click ok to save the Giswater project and the configuration file, and copy the two files to the lizmap directory. Eg In webserver folder go to www\lizmap\lizmap\install\qgis there are;
+1. wsedit.qgs and it corresponding wsedit.qgs.cfg for water network project
+2. udedit.qgs and it corresponding udedit.qgs.cfg for sewer network project 
 
-Open your browser open the lizmap production environment eg http://localhost//webgis//index.php
+Open your browser open the lizmap production environment eg http://localhost/lizmap/lizmap/www/index.php
 Log in to lizmap application to access the administrator dashboard
 Go to the maps management and create a repository with id, label, and local folder path eg /webserver/data/prod/rep1/ and optionally check the required button accordingly.
 A new Giswater project repository is now available, click on view and all the parameters as set in QGIS are visible, click on Load the Map to view the web map.
-
 Giswater functionalities in QGIS are reflected in the web map immediately, there has been no better Giswater client than QGIS in the date. 
-
 > The purpose of this project is to enable full functions of Giswater through the web for easy portability especially in the water operation and management.
 
 
